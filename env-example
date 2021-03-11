@@ -1,1 +1,6 @@
+# This is an example file.
+# Here you would put your access tokens or other environment 
+# variables in order to connect and get the app running
+
+# Used in Map.js
 REACT_APP_MAP_TOKEN=
