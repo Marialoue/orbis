@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="app-container">
       <header className="app-header">
-        <p>Vaccine mapper</p>
+        <p>Covid-19 vaccin i Sverige</p>
       </header>
       <Map />
     </div>
