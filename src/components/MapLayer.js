@@ -1,9 +1,9 @@
 import { PolygonLayer } from "deck.gl";
 
-export const polygonLine = (coords) => {
+export const polygonLine = (polygonCoords) => {
   return new PolygonLayer({
     id: "polygon-layer",
-    data: coords,
+    data: polygonCoords,
     pickable: true,
     stroked: true,
     filled: true,
@@ -13,4 +13,4 @@ export const polygonLine = (coords) => {
     getLineColor: [80, 80, 80],
     getLineWidth: 1,
   });
-};
+}; 
