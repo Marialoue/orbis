@@ -1,3 +1,11 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 .app-container {
   text-align: left;
 }
@@ -9,7 +17,7 @@
   right: 0;
   padding: 5px;
   height: 50px;
-  z-index: 201;
+  z-index: 1;
   background-color: #35383da1;
   display: flex;
   flex-direction: column;

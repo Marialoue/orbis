@@ -1,12 +1,11 @@
 import "./App.css";
 import Map from "./components/Map";
+import Header from "./components/Header";
 
 function App() {
   return (
     <div className="app-container">
-      <header className="app-header">
-        <p>Covid-19 vaccin i Sverige</p>
-      </header>
+      <Header />
       <Map />
     </div>
   );
