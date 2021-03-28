@@ -1,8 +1,7 @@
 import { useState } from "react";
 import DeckGL from "@deck.gl/react";
 import { StaticMap } from "react-map-gl";
-import { polygonLine } from "./MapLayer";
-import data from "../data/regions.js";
+import { geojsonLayer } from "./MapLayer";
 
 const Map = () => {
   // initial viewstate
@@ -10,35 +9,23 @@ const Map = () => {
     latitude: 62.483208,
     longitude: 16.927503,
     zoom: 4,
-    pitch: 15,
+    pitch: 30,
     bearing: 0,
   });
+
   // token for mapbox api
   const mapToken = process.env.REACT_APP_MAP_TOKEN;
 
-  const county = data[0].features[23].geometry.coordinates;
-  console.log("one county:", county);
-  console.log("data.length:", data[0].features.length);
-
-  const countyCoords = Object.entries(data[0].features).map(([x, y]) => ({
-    id: x,
-    coords: y.geometry.coordinates,
-  }));
-  console.log("map with object / coords: ", countyCoords);
-
-  const countyCode = Object.entries(data[0].features).map(([x, y]) => ({
-    id: x,
-    landskap: y.properties.landskap,
-    landskapskod: y.properties.landskapskod,
-  }));
-  console.log("map with object / codes: ", countyCode);
-
-  // coords for the polygon
-  const [polygonCoords, setPolygonCoords] = useState([
-    {
-      data: county,
-    },
-  ]);
+  function getTooltip({ object }) {
+    return (
+      object && {
+        html: `\
+    <div><b>County: </b>${object.properties.name}</div>
+    <div><b>Population: </b>${object.properties.population}</div>
+    `,
+      }
+    );
+  }
 
   return (
     <DeckGL
@@ -47,12 +34,15 @@ const Map = () => {
         setViewState({ ...viewState });
       }}
       controller={true}
-      layers={[polygonLine(polygonCoords)]}
-      getTooltip={({ object }) =>
-        object && `Landskap: ${data[0].features[23].properties.landskap}`
-      }
+      layers={[geojsonLayer()]}
+      getTooltip={getTooltip}
     >
-      <StaticMap mapboxApiAccessToken={mapToken} />
+      <StaticMap
+        mapStyle={"mapbox://styles/mapbox/dark-v9"}
+        // preventStyleDiffing={true}
+        // reuseMaps
+        mapboxApiAccessToken={mapToken}
+      />
     </DeckGL>
   );
 };
