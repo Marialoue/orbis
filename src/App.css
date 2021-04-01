@@ -1,11 +1,13 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: -apple-system, BlinkMacSystemFont, 'Nunito','Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
 }
+
 .app-container {
   text-align: left;
 }
@@ -18,11 +20,25 @@ body {
   padding: 5px;
   height: 50px;
   z-index: 1;
-  background-color: #35383da1;
+  background-color: #171b22a1;
   display: flex;
   flex-direction: column;
   align-items: left;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgba(255, 255, 255, 0.848);
+  color: rgb(255, 255, 255);
 }
+
+.deck-tooltip {
+  color: rgb(227, 241, 95);
+  background-color: rgba(56, 70, 86, 0.745);
+  z-index: 1;
+  position: absolute;
+  pointer-events: none;
+  padding: 10px;
+  top: 0px;
+  left: 0px;
+  display: block;
+  transform: translate(396px, 261px);
+  }   
