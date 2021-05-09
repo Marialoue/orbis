@@ -1,0 +1,793 @@
+Vecka,År,Region,Antal vaccinerade,Andel vaccinerade,Vaccinationsstatus
+52,2020,| Sverige |,2252,"0,000275",Minst 1 dos
+52,2020,| Sverige |,0,"0,000000",Färdigvaccinerade
+52,2020,Stockholm,286,"0,000153",Minst 1 dos
+52,2020,Stockholm,0,"0,000000",Färdigvaccinerade
+52,2020,Uppsala,8,"0,000026",Minst 1 dos
+52,2020,Uppsala,0,"0,000000",Färdigvaccinerade
+52,2020,Södermanland,116,"0,000496",Minst 1 dos
+52,2020,Södermanland,0,"0,000000",Färdigvaccinerade
+52,2020,Östergötland,210,"0,000567",Minst 1 dos
+52,2020,Östergötland,0,"0,000000",Färdigvaccinerade
+52,2020,Jönköping,43,"0,000151",Minst 1 dos
+52,2020,Jönköping,0,"0,000000",Färdigvaccinerade
+52,2020,Kronoberg,29,"0,000183",Minst 1 dos
+52,2020,Kronoberg,0,"0,000000",Färdigvaccinerade
+52,2020,Kalmar,0,"0,000000",Minst 1 dos
+52,2020,Kalmar,0,"0,000000",Färdigvaccinerade
+52,2020,Gotland,0,"0,000000",Minst 1 dos
+52,2020,Gotland,0,"0,000000",Färdigvaccinerade
+52,2020,Blekinge,179,"0,001410",Minst 1 dos
+52,2020,Blekinge,0,"0,000000",Färdigvaccinerade
+52,2020,Skåne,295,"0,000271",Minst 1 dos
+52,2020,Skåne,0,"0,000000",Färdigvaccinerade
+52,2020,Halland,46,"0,000174",Minst 1 dos
+52,2020,Halland,0,"0,000000",Färdigvaccinerade
+52,2020,Västra Götaland,281,"0,000205",Minst 1 dos
+52,2020,Västra Götaland,0,"0,000000",Färdigvaccinerade
+52,2020,Värmland,43,"0,000189",Minst 1 dos
+52,2020,Värmland,0,"0,000000",Färdigvaccinerade
+52,2020,Örebro,244,"0,001010",Minst 1 dos
+52,2020,Örebro,0,"0,000000",Färdigvaccinerade
+52,2020,Västmanland,24,"0,000110",Minst 1 dos
+52,2020,Västmanland,0,"0,000000",Färdigvaccinerade
+52,2020,Dalarna,189,"0,000825",Minst 1 dos
+52,2020,Dalarna,0,"0,000000",Färdigvaccinerade
+52,2020,Gävleborg,196,"0,000852",Minst 1 dos
+52,2020,Gävleborg,0,"0,000000",Färdigvaccinerade
+52,2020,Västernorrland,0,"0,000000",Minst 1 dos
+52,2020,Västernorrland,0,"0,000000",Färdigvaccinerade
+52,2020,Jämtland,63,"0,000602",Minst 1 dos
+52,2020,Jämtland,0,"0,000000",Färdigvaccinerade
+52,2020,Västerbotten,0,"0,000000",Minst 1 dos
+52,2020,Västerbotten,0,"0,000000",Färdigvaccinerade
+52,2020,Norrbotten,0,"0,000000",Minst 1 dos
+52,2020,Norrbotten,0,"0,000000",Färdigvaccinerade
+53,2020,| Sverige |,15675,"0,001914",Minst 1 dos
+53,2020,| Sverige |,44,"0,000005",Färdigvaccinerade
+53,2020,Stockholm,2238,"0,001197",Minst 1 dos
+53,2020,Stockholm,43,"0,000023",Färdigvaccinerade
+53,2020,Uppsala,245,"0,000800",Minst 1 dos
+53,2020,Uppsala,0,"0,000000",Färdigvaccinerade
+53,2020,Södermanland,1254,"0,005357",Minst 1 dos
+53,2020,Södermanland,0,"0,000000",Färdigvaccinerade
+53,2020,Östergötland,2181,"0,005891",Minst 1 dos
+53,2020,Östergötland,0,"0,000000",Färdigvaccinerade
+53,2020,Jönköping,1154,"0,004046",Minst 1 dos
+53,2020,Jönköping,0,"0,000000",Färdigvaccinerade
+53,2020,Kronoberg,220,"0,001391",Minst 1 dos
+53,2020,Kronoberg,0,"0,000000",Färdigvaccinerade
+53,2020,Kalmar,293,"0,001485",Minst 1 dos
+53,2020,Kalmar,0,"0,000000",Färdigvaccinerade
+53,2020,Gotland,198,"0,004037",Minst 1 dos
+53,2020,Gotland,0,"0,000000",Färdigvaccinerade
+53,2020,Blekinge,667,"0,005256",Minst 1 dos
+53,2020,Blekinge,0,"0,000000",Färdigvaccinerade
+53,2020,Skåne,1424,"0,001307",Minst 1 dos
+53,2020,Skåne,0,"0,000000",Färdigvaccinerade
+53,2020,Halland,227,"0,000861",Minst 1 dos
+53,2020,Halland,0,"0,000000",Färdigvaccinerade
+53,2020,Västra Götaland,2331,"0,001700",Minst 1 dos
+53,2020,Västra Götaland,0,"0,000000",Färdigvaccinerade
+53,2020,Värmland,194,"0,000852",Minst 1 dos
+53,2020,Värmland,0,"0,000000",Färdigvaccinerade
+53,2020,Örebro,1335,"0,005526",Minst 1 dos
+53,2020,Örebro,0,"0,000000",Färdigvaccinerade
+53,2020,Västmanland,57,"0,000261",Minst 1 dos
+53,2020,Västmanland,0,"0,000000",Färdigvaccinerade
+53,2020,Dalarna,191,"0,000833",Minst 1 dos
+53,2020,Dalarna,0,"0,000000",Färdigvaccinerade
+53,2020,Gävleborg,711,"0,003092",Minst 1 dos
+53,2020,Gävleborg,0,"0,000000",Färdigvaccinerade
+53,2020,Västernorrland,214,"0,001095",Minst 1 dos
+53,2020,Västernorrland,0,"0,000000",Färdigvaccinerade
+53,2020,Jämtland,198,"0,001893",Minst 1 dos
+53,2020,Jämtland,0,"0,000000",Färdigvaccinerade
+53,2020,Västerbotten,129,"0,000590",Minst 1 dos
+53,2020,Västerbotten,0,"0,000000",Färdigvaccinerade
+53,2020,Norrbotten,214,"0,001052",Minst 1 dos
+53,2020,Norrbotten,0,"0,000000",Färdigvaccinerade
+01,2021,| Sverige |,50664,"0,006186",Minst 1 dos
+01,2021,| Sverige |,81,"0,000010",Färdigvaccinerade
+01,2021,Stockholm,7182,"0,003843",Minst 1 dos
+01,2021,Stockholm,77,"0,000041",Färdigvaccinerade
+01,2021,Uppsala,1384,"0,004518",Minst 1 dos
+01,2021,Uppsala,0,"0,000000",Färdigvaccinerade
+01,2021,Södermanland,4022,"0,017181",Minst 1 dos
+01,2021,Södermanland,0,"0,000000",Färdigvaccinerade
+01,2021,Östergötland,4358,"0,011772",Minst 1 dos
+01,2021,Östergötland,0,"0,000000",Färdigvaccinerade
+01,2021,Jönköping,1663,"0,005831",Minst 1 dos
+01,2021,Jönköping,0,"0,000000",Färdigvaccinerade
+01,2021,Kronoberg,1238,"0,007828",Minst 1 dos
+01,2021,Kronoberg,0,"0,000000",Färdigvaccinerade
+01,2021,Kalmar,1859,"0,009423",Minst 1 dos
+01,2021,Kalmar,0,"0,000000",Färdigvaccinerade
+01,2021,Gotland,496,"0,010114",Minst 1 dos
+01,2021,Gotland,0,"0,000000",Färdigvaccinerade
+01,2021,Blekinge,1647,"0,012978",Minst 1 dos
+01,2021,Blekinge,0,"0,000000",Färdigvaccinerade
+01,2021,Skåne,4485,"0,004116",Minst 1 dos
+01,2021,Skåne,0,"0,000000",Färdigvaccinerade
+01,2021,Halland,373,"0,001414",Minst 1 dos
+01,2021,Halland,0,"0,000000",Färdigvaccinerade
+01,2021,Västra Götaland,7089,"0,005170",Minst 1 dos
+01,2021,Västra Götaland,0,"0,000000",Färdigvaccinerade
+01,2021,Värmland,1122,"0,004926",Minst 1 dos
+01,2021,Värmland,0,"0,000000",Färdigvaccinerade
+01,2021,Örebro,3113,"0,012886",Minst 1 dos
+01,2021,Örebro,0,"0,000000",Färdigvaccinerade
+01,2021,Västmanland,92,"0,000421",Minst 1 dos
+01,2021,Västmanland,0,"0,000000",Färdigvaccinerade
+01,2021,Dalarna,3104,"0,013543",Minst 1 dos
+01,2021,Dalarna,0,"0,000000",Färdigvaccinerade
+01,2021,Gävleborg,2024,"0,008802",Minst 1 dos
+01,2021,Gävleborg,0,"0,000000",Färdigvaccinerade
+01,2021,Västernorrland,1948,"0,009963",Minst 1 dos
+01,2021,Västernorrland,0,"0,000000",Färdigvaccinerade
+01,2021,Jämtland,1074,"0,010271",Minst 1 dos
+01,2021,Jämtland,0,"0,000000",Färdigvaccinerade
+01,2021,Västerbotten,1102,"0,005044",Minst 1 dos
+01,2021,Västerbotten,0,"0,000000",Färdigvaccinerade
+01,2021,Norrbotten,1289,"0,006339",Minst 1 dos
+01,2021,Norrbotten,0,"0,000000",Färdigvaccinerade
+02,2021,| Sverige |,128374,"0,015675",Minst 1 dos
+02,2021,| Sverige |,187,"0,000023",Färdigvaccinerade
+02,2021,Stockholm,22707,"0,012149",Minst 1 dos
+02,2021,Stockholm,164,"0,000088",Färdigvaccinerade
+02,2021,Uppsala,5289,"0,017266",Minst 1 dos
+02,2021,Uppsala,0,"0,000000",Färdigvaccinerade
+02,2021,Södermanland,7130,"0,030459",Minst 1 dos
+02,2021,Södermanland,0,"0,000000",Färdigvaccinerade
+02,2021,Östergötland,6673,"0,018025",Minst 1 dos
+02,2021,Östergötland,0,"0,000000",Färdigvaccinerade
+02,2021,Jönköping,6947,"0,024359",Minst 1 dos
+02,2021,Jönköping,0,"0,000000",Färdigvaccinerade
+02,2021,Kronoberg,2254,"0,014252",Minst 1 dos
+02,2021,Kronoberg,0,"0,000000",Färdigvaccinerade
+02,2021,Kalmar,4507,"0,022846",Minst 1 dos
+02,2021,Kalmar,0,"0,000000",Färdigvaccinerade
+02,2021,Gotland,1171,"0,023877",Minst 1 dos
+02,2021,Gotland,0,"0,000000",Färdigvaccinerade
+02,2021,Blekinge,2786,"0,021952",Minst 1 dos
+02,2021,Blekinge,5,"0,000039",Färdigvaccinerade
+02,2021,Skåne,14919,"0,013692",Minst 1 dos
+02,2021,Skåne,0,"0,000000",Färdigvaccinerade
+02,2021,Halland,2937,"0,011137",Minst 1 dos
+02,2021,Halland,0,"0,000000",Färdigvaccinerade
+02,2021,Västra Götaland,16297,"0,011886",Minst 1 dos
+02,2021,Västra Götaland,7,"0,000005",Färdigvaccinerade
+02,2021,Värmland,2617,"0,011491",Minst 1 dos
+02,2021,Värmland,0,"0,000000",Färdigvaccinerade
+02,2021,Örebro,5653,"0,023401",Minst 1 dos
+02,2021,Örebro,0,"0,000000",Färdigvaccinerade
+02,2021,Västmanland,5123,"0,023416",Minst 1 dos
+02,2021,Västmanland,0,"0,000000",Färdigvaccinerade
+02,2021,Dalarna,3170,"0,013831",Minst 1 dos
+02,2021,Dalarna,0,"0,000000",Färdigvaccinerade
+02,2021,Gävleborg,4628,"0,020125",Minst 1 dos
+02,2021,Gävleborg,0,"0,000000",Färdigvaccinerade
+02,2021,Västernorrland,4760,"0,024346",Minst 1 dos
+02,2021,Västernorrland,0,"0,000000",Färdigvaccinerade
+02,2021,Jämtland,2065,"0,019748",Minst 1 dos
+02,2021,Jämtland,0,"0,000000",Färdigvaccinerade
+02,2021,Västerbotten,3244,"0,014848",Minst 1 dos
+02,2021,Västerbotten,0,"0,000000",Färdigvaccinerade
+02,2021,Norrbotten,3497,"0,017198",Minst 1 dos
+02,2021,Norrbotten,0,"0,000000",Färdigvaccinerade
+03,2021,| Sverige |,230756,"0,028176",Minst 1 dos
+03,2021,| Sverige |,10430,"0,001274",Färdigvaccinerade
+03,2021,Stockholm,34562,"0,018491",Minst 1 dos
+03,2021,Stockholm,2040,"0,001091",Färdigvaccinerade
+03,2021,Uppsala,8003,"0,026126",Minst 1 dos
+03,2021,Uppsala,224,"0,000731",Färdigvaccinerade
+03,2021,Södermanland,10592,"0,045248",Minst 1 dos
+03,2021,Södermanland,815,"0,003482",Färdigvaccinerade
+03,2021,Östergötland,11317,"0,030570",Minst 1 dos
+03,2021,Östergötland,2011,"0,005432",Färdigvaccinerade
+03,2021,Jönköping,10356,"0,036312",Minst 1 dos
+03,2021,Jönköping,878,"0,003079",Färdigvaccinerade
+03,2021,Kronoberg,4210,"0,026619",Minst 1 dos
+03,2021,Kronoberg,202,"0,001277",Färdigvaccinerade
+03,2021,Kalmar,8138,"0,041251",Minst 1 dos
+03,2021,Kalmar,289,"0,001465",Färdigvaccinerade
+03,2021,Gotland,2164,"0,044125",Minst 1 dos
+03,2021,Gotland,190,"0,003874",Färdigvaccinerade
+03,2021,Blekinge,4168,"0,032842",Minst 1 dos
+03,2021,Blekinge,281,"0,002214",Färdigvaccinerade
+03,2021,Skåne,28633,"0,026278",Minst 1 dos
+03,2021,Skåne,317,"0,000291",Färdigvaccinerade
+03,2021,Halland,7081,"0,026851",Minst 1 dos
+03,2021,Halland,182,"0,000690",Färdigvaccinerade
+03,2021,Västra Götaland,36517,"0,026633",Minst 1 dos
+03,2021,Västra Götaland,416,"0,000303",Färdigvaccinerade
+03,2021,Värmland,6510,"0,028584",Minst 1 dos
+03,2021,Värmland,169,"0,000742",Färdigvaccinerade
+03,2021,Örebro,9493,"0,039296",Minst 1 dos
+03,2021,Örebro,804,"0,003328",Färdigvaccinerade
+03,2021,Västmanland,8565,"0,039148",Minst 1 dos
+03,2021,Västmanland,138,"0,000631",Färdigvaccinerade
+03,2021,Dalarna,9982,"0,043551",Minst 1 dos
+03,2021,Dalarna,170,"0,000742",Färdigvaccinerade
+03,2021,Gävleborg,7077,"0,030775",Minst 1 dos
+03,2021,Gävleborg,632,"0,002748",Färdigvaccinerade
+03,2021,Västernorrland,7725,"0,039511",Minst 1 dos
+03,2021,Västernorrland,185,"0,000946",Färdigvaccinerade
+03,2021,Jämtland,3239,"0,030975",Minst 1 dos
+03,2021,Jämtland,162,"0,001549",Färdigvaccinerade
+03,2021,Västerbotten,5597,"0,025618",Minst 1 dos
+03,2021,Västerbotten,118,"0,000540",Färdigvaccinerade
+03,2021,Norrbotten,6827,"0,033575",Minst 1 dos
+03,2021,Norrbotten,207,"0,001018",Färdigvaccinerade
+04,2021,| Sverige |,294252,"0,035929",Minst 1 dos
+04,2021,| Sverige |,35699,"0,004359",Färdigvaccinerade
+04,2021,Stockholm,44420,"0,023766",Minst 1 dos
+04,2021,Stockholm,6162,"0,003297",Färdigvaccinerade
+04,2021,Uppsala,10766,"0,035146",Minst 1 dos
+04,2021,Uppsala,1208,"0,003944",Färdigvaccinerade
+04,2021,Södermanland,11530,"0,049255",Minst 1 dos
+04,2021,Södermanland,2581,"0,011026",Färdigvaccinerade
+04,2021,Östergötland,14387,"0,038863",Minst 1 dos
+04,2021,Östergötland,3682,"0,009946",Färdigvaccinerade
+04,2021,Jönköping,13110,"0,045969",Minst 1 dos
+04,2021,Jönköping,1398,"0,004902",Färdigvaccinerade
+04,2021,Kronoberg,5304,"0,033537",Minst 1 dos
+04,2021,Kronoberg,1137,"0,007189",Färdigvaccinerade
+04,2021,Kalmar,11453,"0,058055",Minst 1 dos
+04,2021,Kalmar,1778,"0,009013",Färdigvaccinerade
+04,2021,Gotland,4056,"0,082705",Minst 1 dos
+04,2021,Gotland,393,"0,008014",Färdigvaccinerade
+04,2021,Blekinge,5510,"0,043416",Minst 1 dos
+04,2021,Blekinge,1415,"0,011150",Färdigvaccinerade
+04,2021,Skåne,38990,"0,035783",Minst 1 dos
+04,2021,Skåne,1370,"0,001257",Färdigvaccinerade
+04,2021,Halland,10520,"0,039891",Minst 1 dos
+04,2021,Halland,309,"0,001172",Färdigvaccinerade
+04,2021,Västra Götaland,43929,"0,032039",Minst 1 dos
+04,2021,Västra Götaland,2184,"0,001593",Färdigvaccinerade
+04,2021,Värmland,10029,"0,044035",Minst 1 dos
+04,2021,Värmland,1044,"0,004584",Färdigvaccinerade
+04,2021,Örebro,10854,"0,044930",Minst 1 dos
+04,2021,Örebro,1933,"0,008002",Färdigvaccinerade
+04,2021,Västmanland,10209,"0,046662",Minst 1 dos
+04,2021,Västmanland,385,"0,001760",Färdigvaccinerade
+04,2021,Dalarna,10428,"0,045497",Minst 1 dos
+04,2021,Dalarna,2895,"0,012631",Färdigvaccinerade
+04,2021,Gävleborg,9488,"0,041260",Minst 1 dos
+04,2021,Gävleborg,1901,"0,008267",Färdigvaccinerade
+04,2021,Västernorrland,8310,"0,042503",Minst 1 dos
+04,2021,Västernorrland,1700,"0,008695",Färdigvaccinerade
+04,2021,Jämtland,3554,"0,033987",Minst 1 dos
+04,2021,Jämtland,890,"0,008511",Färdigvaccinerade
+04,2021,Västerbotten,7994,"0,036589",Minst 1 dos
+04,2021,Västerbotten,121,"0,000554",Färdigvaccinerade
+04,2021,Norrbotten,9411,"0,046283",Minst 1 dos
+04,2021,Norrbotten,1213,"0,005965",Färdigvaccinerade
+05,2021,| Sverige |,337704,"0,041234",Minst 1 dos
+05,2021,| Sverige |,91097,"0,011123",Färdigvaccinerade
+05,2021,Stockholm,52801,"0,028250",Minst 1 dos
+05,2021,Stockholm,16434,"0,008793",Färdigvaccinerade
+05,2021,Uppsala,13018,"0,042498",Minst 1 dos
+05,2021,Uppsala,3444,"0,011243",Färdigvaccinerade
+05,2021,Södermanland,11898,"0,050827",Minst 1 dos
+05,2021,Södermanland,5947,"0,025405",Färdigvaccinerade
+05,2021,Östergötland,16795,"0,045367",Minst 1 dos
+05,2021,Östergötland,6003,"0,016216",Färdigvaccinerade
+05,2021,Jönköping,13514,"0,047386",Minst 1 dos
+05,2021,Jönköping,6241,"0,021884",Färdigvaccinerade
+05,2021,Kronoberg,6752,"0,042692",Minst 1 dos
+05,2021,Kronoberg,2074,"0,013114",Färdigvaccinerade
+05,2021,Kalmar,13570,"0,068785",Minst 1 dos
+05,2021,Kalmar,1927,"0,009768",Färdigvaccinerade
+05,2021,Gotland,4825,"0,098385",Minst 1 dos
+05,2021,Gotland,1098,"0,022389",Färdigvaccinerade
+05,2021,Blekinge,6952,"0,054779",Minst 1 dos
+05,2021,Blekinge,2527,"0,019912",Färdigvaccinerade
+05,2021,Skåne,45753,"0,041990",Minst 1 dos
+05,2021,Skåne,8234,"0,007557",Färdigvaccinerade
+05,2021,Halland,12775,"0,048442",Minst 1 dos
+05,2021,Halland,2618,"0,009927",Färdigvaccinerade
+05,2021,Västra Götaland,49244,"0,035915",Minst 1 dos
+05,2021,Västra Götaland,6847,"0,004994",Färdigvaccinerade
+05,2021,Värmland,12199,"0,053562",Minst 1 dos
+05,2021,Värmland,2359,"0,010358",Färdigvaccinerade
+05,2021,Örebro,12132,"0,050221",Minst 1 dos
+05,2021,Örebro,3658,"0,015142",Färdigvaccinerade
+05,2021,Västmanland,10720,"0,048998",Minst 1 dos
+05,2021,Västmanland,4909,"0,022438",Färdigvaccinerade
+05,2021,Dalarna,10497,"0,045798",Minst 1 dos
+05,2021,Dalarna,2948,"0,012862",Färdigvaccinerade
+05,2021,Gävleborg,12376,"0,053819",Minst 1 dos
+05,2021,Gävleborg,4398,"0,019125",Färdigvaccinerade
+05,2021,Västernorrland,9010,"0,046084",Minst 1 dos
+05,2021,Västernorrland,2989,"0,015288",Färdigvaccinerade
+05,2021,Jämtland,3692,"0,035307",Minst 1 dos
+05,2021,Jämtland,2019,"0,019308",Färdigvaccinerade
+05,2021,Västerbotten,9476,"0,043372",Minst 1 dos
+05,2021,Västerbotten,1148,"0,005254",Färdigvaccinerade
+05,2021,Norrbotten,9705,"0,047729",Minst 1 dos
+05,2021,Norrbotten,3275,"0,016106",Färdigvaccinerade
+06,2021,| Sverige |,383128,"0,046781",Minst 1 dos
+06,2021,| Sverige |,160552,"0,019604",Färdigvaccinerade
+06,2021,Stockholm,57518,"0,030773",Minst 1 dos
+06,2021,Stockholm,26386,"0,014117",Färdigvaccinerade
+06,2021,Uppsala,15105,"0,049311",Minst 1 dos
+06,2021,Uppsala,6001,"0,019591",Färdigvaccinerade
+06,2021,Södermanland,12812,"0,054731",Minst 1 dos
+06,2021,Södermanland,9151,"0,039092",Färdigvaccinerade
+06,2021,Östergötland,18665,"0,050419",Minst 1 dos
+06,2021,Östergötland,9952,"0,026883",Färdigvaccinerade
+06,2021,Jönköping,15424,"0,054083",Minst 1 dos
+06,2021,Jönköping,9172,"0,032161",Färdigvaccinerade
+06,2021,Kronoberg,7425,"0,046948",Minst 1 dos
+06,2021,Kronoberg,3880,"0,024533",Färdigvaccinerade
+06,2021,Kalmar,14681,"0,074417",Minst 1 dos
+06,2021,Kalmar,5043,"0,025563",Färdigvaccinerade
+06,2021,Gotland,5097,"0,103931",Minst 1 dos
+06,2021,Gotland,1325,"0,027018",Färdigvaccinerade
+06,2021,Blekinge,8208,"0,064675",Minst 1 dos
+06,2021,Blekinge,3837,"0,030234",Färdigvaccinerade
+06,2021,Skåne,49093,"0,045055",Minst 1 dos
+06,2021,Skåne,14133,"0,012971",Färdigvaccinerade
+06,2021,Halland,15961,"0,060523",Minst 1 dos
+06,2021,Halland,6162,"0,023366",Färdigvaccinerade
+06,2021,Västra Götaland,59200,"0,043177",Minst 1 dos
+06,2021,Västra Götaland,15531,"0,011327",Färdigvaccinerade
+06,2021,Värmland,14088,"0,061856",Minst 1 dos
+06,2021,Värmland,4658,"0,020452",Färdigvaccinerade
+06,2021,Örebro,14715,"0,060913",Minst 1 dos
+06,2021,Örebro,5933,"0,024560",Färdigvaccinerade
+06,2021,Västmanland,11637,"0,053189",Minst 1 dos
+06,2021,Västmanland,6885,"0,031469",Färdigvaccinerade
+06,2021,Dalarna,11206,"0,048891",Minst 1 dos
+06,2021,Dalarna,9215,"0,040205",Färdigvaccinerade
+06,2021,Gävleborg,14899,"0,064790",Minst 1 dos
+06,2021,Gävleborg,6120,"0,026614",Färdigvaccinerade
+06,2021,Västernorrland,9913,"0,050702",Minst 1 dos
+06,2021,Västernorrland,4767,"0,024382",Färdigvaccinerade
+06,2021,Jämtland,4777,"0,045683",Minst 1 dos
+06,2021,Jämtland,3008,"0,028766",Färdigvaccinerade
+06,2021,Västerbotten,10892,"0,049854",Minst 1 dos
+06,2021,Västerbotten,3190,"0,014601",Färdigvaccinerade
+06,2021,Norrbotten,11812,"0,058091",Minst 1 dos
+06,2021,Norrbotten,6203,"0,030506",Färdigvaccinerade
+07,2021,| Sverige |,452460,"0,055246",Minst 1 dos
+07,2021,| Sverige |,241045,"0,029432",Färdigvaccinerade
+07,2021,Stockholm,65384,"0,034982",Minst 1 dos
+07,2021,Stockholm,36460,"0,019507",Färdigvaccinerade
+07,2021,Uppsala,17627,"0,057544",Minst 1 dos
+07,2021,Uppsala,8294,"0,027076",Färdigvaccinerade
+07,2021,Södermanland,16189,"0,069157",Minst 1 dos
+07,2021,Södermanland,10962,"0,046828",Färdigvaccinerade
+07,2021,Östergötland,23519,"0,063530",Minst 1 dos
+07,2021,Östergötland,13334,"0,036018",Färdigvaccinerade
+07,2021,Jönköping,18721,"0,065643",Minst 1 dos
+07,2021,Jönköping,12155,"0,042620",Färdigvaccinerade
+07,2021,Kronoberg,9279,"0,058670",Minst 1 dos
+07,2021,Kronoberg,4999,"0,031608",Färdigvaccinerade
+07,2021,Kalmar,16804,"0,085178",Minst 1 dos
+07,2021,Kalmar,7948,"0,040288",Färdigvaccinerade
+07,2021,Gotland,5309,"0,108254",Minst 1 dos
+07,2021,Gotland,2321,"0,047327",Färdigvaccinerade
+07,2021,Blekinge,10608,"0,083586",Minst 1 dos
+07,2021,Blekinge,5110,"0,040264",Färdigvaccinerade
+07,2021,Skåne,55693,"0,051112",Minst 1 dos
+07,2021,Skåne,27833,"0,025544",Färdigvaccinerade
+07,2021,Halland,19253,"0,073007",Minst 1 dos
+07,2021,Halland,9570,"0,036289",Färdigvaccinerade
+07,2021,Västra Götaland,69257,"0,050511",Minst 1 dos
+07,2021,Västra Götaland,34245,"0,024976",Färdigvaccinerade
+07,2021,Värmland,16941,"0,074383",Minst 1 dos
+07,2021,Värmland,7570,"0,033238",Färdigvaccinerade
+07,2021,Örebro,17232,"0,071332",Minst 1 dos
+07,2021,Örebro,9534,"0,039466",Färdigvaccinerade
+07,2021,Västmanland,14384,"0,065745",Minst 1 dos
+07,2021,Västmanland,9126,"0,041712",Färdigvaccinerade
+07,2021,Dalarna,14078,"0,061422",Minst 1 dos
+07,2021,Dalarna,9837,"0,042918",Färdigvaccinerade
+07,2021,Gävleborg,18358,"0,079832",Minst 1 dos
+07,2021,Gävleborg,8405,"0,036550",Färdigvaccinerade
+07,2021,Västernorrland,11228,"0,057428",Minst 1 dos
+07,2021,Västernorrland,6649,"0,034008",Färdigvaccinerade
+07,2021,Jämtland,6974,"0,066693",Minst 1 dos
+07,2021,Jämtland,3138,"0,030009",Färdigvaccinerade
+07,2021,Västerbotten,12001,"0,054930",Minst 1 dos
+07,2021,Västerbotten,5044,"0,023087",Färdigvaccinerade
+07,2021,Norrbotten,13621,"0,066988",Minst 1 dos
+07,2021,Norrbotten,8511,"0,041857",Färdigvaccinerade
+08,2021,| Sverige |,551862,"0,067383",Minst 1 dos
+08,2021,| Sverige |,293337,"0,035817",Färdigvaccinerade
+08,2021,Stockholm,84185,"0,045041",Minst 1 dos
+08,2021,Stockholm,45128,"0,024145",Färdigvaccinerade
+08,2021,Uppsala,20440,"0,066727",Minst 1 dos
+08,2021,Uppsala,10362,"0,033827",Färdigvaccinerade
+08,2021,Södermanland,21056,"0,089949",Minst 1 dos
+08,2021,Södermanland,11315,"0,048336",Färdigvaccinerade
+08,2021,Östergötland,29240,"0,078984",Minst 1 dos
+08,2021,Östergötland,15741,"0,042520",Färdigvaccinerade
+08,2021,Jönköping,24836,"0,087085",Minst 1 dos
+08,2021,Jönköping,12800,"0,044882",Färdigvaccinerade
+08,2021,Kronoberg,10816,"0,068389",Minst 1 dos
+08,2021,Kronoberg,6124,"0,038722",Färdigvaccinerade
+08,2021,Kalmar,19196,"0,097303",Minst 1 dos
+08,2021,Kalmar,11068,"0,056103",Färdigvaccinerade
+08,2021,Gotland,5779,"0,117838",Minst 1 dos
+08,2021,Gotland,4328,"0,088251",Färdigvaccinerade
+08,2021,Blekinge,12123,"0,095524",Minst 1 dos
+08,2021,Blekinge,6328,"0,049862",Färdigvaccinerade
+08,2021,Skåne,65321,"0,059948",Minst 1 dos
+08,2021,Skåne,37311,"0,034242",Färdigvaccinerade
+08,2021,Halland,21931,"0,083161",Minst 1 dos
+08,2021,Halland,11940,"0,045276",Färdigvaccinerade
+08,2021,Västra Götaland,82054,"0,059845",Minst 1 dos
+08,2021,Västra Götaland,41271,"0,030100",Färdigvaccinerade
+08,2021,Värmland,19989,"0,087766",Minst 1 dos
+08,2021,Värmland,11016,"0,048368",Färdigvaccinerade
+08,2021,Örebro,22098,"0,091475",Minst 1 dos
+08,2021,Örebro,10360,"0,042885",Färdigvaccinerade
+08,2021,Västmanland,17739,"0,081080",Minst 1 dos
+08,2021,Västmanland,9450,"0,043193",Färdigvaccinerade
+08,2021,Dalarna,17828,"0,077783",Minst 1 dos
+08,2021,Dalarna,9985,"0,043564",Färdigvaccinerade
+08,2021,Gävleborg,22324,"0,097079",Minst 1 dos
+08,2021,Gävleborg,10898,"0,047391",Färdigvaccinerade
+08,2021,Västernorrland,14650,"0,074931",Minst 1 dos
+08,2021,Västernorrland,8409,"0,043010",Färdigvaccinerade
+08,2021,Jämtland,9120,"0,087215",Minst 1 dos
+08,2021,Jämtland,3323,"0,031778",Färdigvaccinerade
+08,2021,Västerbotten,14914,"0,068263",Minst 1 dos
+08,2021,Västerbotten,7223,"0,033060",Färdigvaccinerade
+08,2021,Norrbotten,16223,"0,079784",Minst 1 dos
+08,2021,Norrbotten,8957,"0,044050",Färdigvaccinerade
+09,2021,| Sverige |,697603,"0,085179",Minst 1 dos
+09,2021,| Sverige |,329172,"0,040192",Färdigvaccinerade
+09,2021,Stockholm,108278,"0,057931",Minst 1 dos
+09,2021,Stockholm,48792,"0,026105",Färdigvaccinerade
+09,2021,Uppsala,25653,"0,083745",Minst 1 dos
+09,2021,Uppsala,12742,"0,041597",Färdigvaccinerade
+09,2021,Södermanland,27600,"0,117904",Minst 1 dos
+09,2021,Södermanland,11616,"0,049622",Färdigvaccinerade
+09,2021,Östergötland,37978,"0,102588",Minst 1 dos
+09,2021,Östergötland,16508,"0,044592",Färdigvaccinerade
+09,2021,Jönköping,30631,"0,107405",Minst 1 dos
+09,2021,Jönköping,13299,"0,046632",Färdigvaccinerade
+09,2021,Kronoberg,14402,"0,091063",Minst 1 dos
+09,2021,Kronoberg,6782,"0,042882",Färdigvaccinerade
+09,2021,Kalmar,24492,"0,124148",Minst 1 dos
+09,2021,Kalmar,13247,"0,067148",Färdigvaccinerade
+09,2021,Gotland,6522,"0,132988",Minst 1 dos
+09,2021,Gotland,4636,"0,094531",Färdigvaccinerade
+09,2021,Blekinge,14367,"0,113205",Minst 1 dos
+09,2021,Blekinge,7326,"0,057725",Färdigvaccinerade
+09,2021,Skåne,81198,"0,074520",Minst 1 dos
+09,2021,Skåne,43941,"0,040327",Färdigvaccinerade
+09,2021,Halland,25750,"0,097643",Minst 1 dos
+09,2021,Halland,14617,"0,055427",Färdigvaccinerade
+09,2021,Västra Götaland,106930,"0,077988",Minst 1 dos
+09,2021,Västra Götaland,45859,"0,033447",Färdigvaccinerade
+09,2021,Värmland,26071,"0,114471",Minst 1 dos
+09,2021,Värmland,12721,"0,055854",Färdigvaccinerade
+09,2021,Örebro,26886,"0,111295",Minst 1 dos
+09,2021,Örebro,11803,"0,048859",Färdigvaccinerade
+09,2021,Västmanland,23330,"0,106634",Minst 1 dos
+09,2021,Västmanland,9819,"0,044880",Färdigvaccinerade
+09,2021,Dalarna,20994,"0,091596",Minst 1 dos
+09,2021,Dalarna,10464,"0,045654",Färdigvaccinerade
+09,2021,Gävleborg,26183,"0,113860",Minst 1 dos
+09,2021,Gävleborg,12577,"0,054693",Färdigvaccinerade
+09,2021,Västernorrland,19635,"0,100428",Minst 1 dos
+09,2021,Västernorrland,8988,"0,045971",Färdigvaccinerade
+09,2021,Jämtland,12005,"0,114805",Minst 1 dos
+09,2021,Jämtland,4281,"0,040939",Färdigvaccinerade
+09,2021,Västerbotten,19531,"0,089395",Minst 1 dos
+09,2021,Västerbotten,8637,"0,039532",Färdigvaccinerade
+09,2021,Norrbotten,19167,"0,094263",Minst 1 dos
+09,2021,Norrbotten,10517,"0,051722",Färdigvaccinerade
+10,2021,| Sverige |,874064,"0,106725",Minst 1 dos
+10,2021,| Sverige |,368435,"0,044987",Färdigvaccinerade
+10,2021,Stockholm,139100,"0,074422",Minst 1 dos
+10,2021,Stockholm,54611,"0,029218",Färdigvaccinerade
+10,2021,Uppsala,29237,"0,095446",Minst 1 dos
+10,2021,Uppsala,15440,"0,050405",Färdigvaccinerade
+10,2021,Södermanland,34067,"0,145530",Minst 1 dos
+10,2021,Södermanland,13488,"0,057619",Färdigvaccinerade
+10,2021,Östergötland,45847,"0,123844",Minst 1 dos
+10,2021,Östergötland,19518,"0,052723",Färdigvaccinerade
+10,2021,Jönköping,37298,"0,130782",Minst 1 dos
+10,2021,Jönköping,15254,"0,053487",Färdigvaccinerade
+10,2021,Kronoberg,16860,"0,106604",Minst 1 dos
+10,2021,Kronoberg,7786,"0,049230",Färdigvaccinerade
+10,2021,Kalmar,29933,"0,151729",Minst 1 dos
+10,2021,Kalmar,13888,"0,070397",Färdigvaccinerade
+10,2021,Gotland,8541,"0,174157",Minst 1 dos
+10,2021,Gotland,4860,"0,099099",Färdigvaccinerade
+10,2021,Blekinge,17509,"0,137963",Minst 1 dos
+10,2021,Blekinge,8749,"0,068938",Färdigvaccinerade
+10,2021,Skåne,105814,"0,097111",Minst 1 dos
+10,2021,Skåne,47249,"0,043363",Färdigvaccinerade
+10,2021,Halland,31737,"0,120345",Minst 1 dos
+10,2021,Halland,16408,"0,062218",Färdigvaccinerade
+10,2021,Västra Götaland,136090,"0,099255",Minst 1 dos
+10,2021,Västra Götaland,49966,"0,036442",Färdigvaccinerade
+10,2021,Värmland,31626,"0,138861",Minst 1 dos
+10,2021,Värmland,13853,"0,060825",Färdigvaccinerade
+10,2021,Örebro,32285,"0,133644",Minst 1 dos
+10,2021,Örebro,13815,"0,057187",Färdigvaccinerade
+10,2021,Västmanland,28470,"0,130128",Minst 1 dos
+10,2021,Västmanland,11392,"0,052069",Färdigvaccinerade
+10,2021,Dalarna,27061,"0,118066",Minst 1 dos
+10,2021,Dalarna,11453,"0,049969",Färdigvaccinerade
+10,2021,Gävleborg,31205,"0,135699",Minst 1 dos
+10,2021,Gävleborg,14224,"0,061855",Färdigvaccinerade
+10,2021,Västernorrland,25849,"0,132210",Minst 1 dos
+10,2021,Västernorrland,9655,"0,049383",Färdigvaccinerade
+10,2021,Jämtland,14736,"0,140921",Minst 1 dos
+10,2021,Jämtland,5313,"0,050809",Färdigvaccinerade
+10,2021,Västerbotten,26104,"0,119480",Minst 1 dos
+10,2021,Västerbotten,9872,"0,045185",Färdigvaccinerade
+10,2021,Norrbotten,24695,"0,121449",Minst 1 dos
+10,2021,Norrbotten,11641,"0,057250",Färdigvaccinerade
+11,2021,| Sverige |,991096,"0,121015",Minst 1 dos
+11,2021,| Sverige |,423122,"0,051664",Färdigvaccinerade
+11,2021,Stockholm,163169,"0,087299",Minst 1 dos
+11,2021,Stockholm,69242,"0,037046",Färdigvaccinerade
+11,2021,Uppsala,33125,"0,108138",Minst 1 dos
+11,2021,Uppsala,17734,"0,057894",Färdigvaccinerade
+11,2021,Södermanland,39521,"0,168829",Minst 1 dos
+11,2021,Södermanland,15239,"0,065099",Färdigvaccinerade
+11,2021,Östergötland,53047,"0,143292",Minst 1 dos
+11,2021,Östergötland,22987,"0,062093",Färdigvaccinerade
+11,2021,Jönköping,40476,"0,141925",Minst 1 dos
+11,2021,Jönköping,18600,"0,065219",Färdigvaccinerade
+11,2021,Kronoberg,19226,"0,121564",Minst 1 dos
+11,2021,Kronoberg,8590,"0,054314",Färdigvaccinerade
+11,2021,Kalmar,32918,"0,166859",Minst 1 dos
+11,2021,Kalmar,15117,"0,076627",Färdigvaccinerade
+11,2021,Gotland,9951,"0,202908",Minst 1 dos
+11,2021,Gotland,5138,"0,104767",Färdigvaccinerade
+11,2021,Blekinge,18690,"0,147269",Minst 1 dos
+11,2021,Blekinge,10090,"0,079505",Färdigvaccinerade
+11,2021,Skåne,123457,"0,113303",Minst 1 dos
+11,2021,Skåne,50318,"0,046179",Färdigvaccinerade
+11,2021,Halland,35510,"0,134652",Minst 1 dos
+11,2021,Halland,18966,"0,071918",Färdigvaccinerade
+11,2021,Västra Götaland,150886,"0,110046",Minst 1 dos
+11,2021,Västra Götaland,55895,"0,040766",Färdigvaccinerade
+11,2021,Värmland,35775,"0,157078",Minst 1 dos
+11,2021,Värmland,15755,"0,069176",Färdigvaccinerade
+11,2021,Örebro,34846,"0,144246",Minst 1 dos
+11,2021,Örebro,15157,"0,062743",Färdigvaccinerade
+11,2021,Västmanland,32668,"0,149316",Minst 1 dos
+11,2021,Västmanland,13241,"0,060521",Färdigvaccinerade
+11,2021,Dalarna,30614,"0,133568",Minst 1 dos
+11,2021,Dalarna,13541,"0,059079",Färdigvaccinerade
+11,2021,Gävleborg,35942,"0,156298",Minst 1 dos
+11,2021,Gävleborg,16385,"0,071252",Färdigvaccinerade
+11,2021,Västernorrland,29060,"0,148634",Minst 1 dos
+11,2021,Västernorrland,11476,"0,058697",Färdigvaccinerade
+11,2021,Jämtland,16559,"0,158355",Minst 1 dos
+11,2021,Jämtland,6616,"0,063269",Färdigvaccinerade
+11,2021,Västerbotten,29822,"0,136498",Minst 1 dos
+11,2021,Västerbotten,10329,"0,047277",Färdigvaccinerade
+11,2021,Norrbotten,25834,"0,127051",Minst 1 dos
+11,2021,Norrbotten,12706,"0,062488",Färdigvaccinerade
+12,2021,| Sverige |,1118927,"0,136623",Minst 1 dos
+12,2021,| Sverige |,489683,"0,059791",Färdigvaccinerade
+12,2021,Stockholm,189516,"0,101395",Minst 1 dos
+12,2021,Stockholm,81776,"0,043752",Färdigvaccinerade
+12,2021,Uppsala,37447,"0,122248",Minst 1 dos
+12,2021,Uppsala,19920,"0,065030",Färdigvaccinerade
+12,2021,Södermanland,43187,"0,184490",Minst 1 dos
+12,2021,Södermanland,19177,"0,081922",Färdigvaccinerade
+12,2021,Östergötland,59922,"0,161863",Minst 1 dos
+12,2021,Östergötland,26894,"0,072647",Färdigvaccinerade
+12,2021,Jönköping,42963,"0,150646",Minst 1 dos
+12,2021,Jönköping,22231,"0,077951",Färdigvaccinerade
+12,2021,Kronoberg,22207,"0,140413",Minst 1 dos
+12,2021,Kronoberg,10302,"0,065139",Färdigvaccinerade
+12,2021,Kalmar,38150,"0,193380",Minst 1 dos
+12,2021,Kalmar,15868,"0,080434",Färdigvaccinerade
+12,2021,Gotland,10341,"0,210860",Minst 1 dos
+12,2021,Gotland,5210,"0,106235",Färdigvaccinerade
+12,2021,Blekinge,20112,"0,158473",Minst 1 dos
+12,2021,Blekinge,11139,"0,087770",Färdigvaccinerade
+12,2021,Skåne,141119,"0,129512",Minst 1 dos
+12,2021,Skåne,56358,"0,051723",Färdigvaccinerade
+12,2021,Halland,42552,"0,161355",Minst 1 dos
+12,2021,Halland,20500,"0,077735",Färdigvaccinerade
+12,2021,Västra Götaland,169861,"0,123885",Minst 1 dos
+12,2021,Västra Götaland,63979,"0,046662",Färdigvaccinerade
+12,2021,Värmland,40770,"0,179010",Minst 1 dos
+12,2021,Värmland,18577,"0,081566",Färdigvaccinerade
+12,2021,Örebro,38923,"0,161122",Minst 1 dos
+12,2021,Örebro,17444,"0,072210",Färdigvaccinerade
+12,2021,Västmanland,35906,"0,164115",Minst 1 dos
+12,2021,Västmanland,16253,"0,074288",Färdigvaccinerade
+12,2021,Dalarna,34142,"0,148960",Minst 1 dos
+12,2021,Dalarna,15717,"0,068573",Färdigvaccinerade
+12,2021,Gävleborg,41375,"0,179924",Minst 1 dos
+12,2021,Gävleborg,19244,"0,083685",Färdigvaccinerade
+12,2021,Västernorrland,29915,"0,153007",Minst 1 dos
+12,2021,Västernorrland,14118,"0,072210",Färdigvaccinerade
+12,2021,Jämtland,17960,"0,171753",Minst 1 dos
+12,2021,Jämtland,7988,"0,076390",Färdigvaccinerade
+12,2021,Västerbotten,32743,"0,149867",Minst 1 dos
+12,2021,Västerbotten,13449,"0,061557",Färdigvaccinerade
+12,2021,Norrbotten,29816,"0,146634",Minst 1 dos
+12,2021,Norrbotten,13539,"0,066584",Färdigvaccinerade
+13,2021,| Sverige |,1296495,"0,158304",Minst 1 dos
+13,2021,| Sverige |,550273,"0,067189",Färdigvaccinerade
+13,2021,Stockholm,219963,"0,117685",Minst 1 dos
+13,2021,Stockholm,92122,"0,049287",Färdigvaccinerade
+13,2021,Uppsala,41045,"0,133993",Minst 1 dos
+13,2021,Uppsala,20918,"0,068288",Färdigvaccinerade
+13,2021,Södermanland,48117,"0,205550",Minst 1 dos
+13,2021,Södermanland,21559,"0,092097",Färdigvaccinerade
+13,2021,Östergötland,68925,"0,186183",Minst 1 dos
+13,2021,Östergötland,27931,"0,075448",Färdigvaccinerade
+13,2021,Jönköping,52485,"0,184034",Minst 1 dos
+13,2021,Jönköping,23337,"0,081829",Färdigvaccinerade
+13,2021,Kronoberg,25801,"0,163137",Minst 1 dos
+13,2021,Kronoberg,11006,"0,069590",Färdigvaccinerade
+13,2021,Kalmar,42938,"0,217650",Minst 1 dos
+13,2021,Kalmar,17429,"0,088347",Färdigvaccinerade
+13,2021,Gotland,10793,"0,220077",Minst 1 dos
+13,2021,Gotland,5236,"0,106766",Färdigvaccinerade
+13,2021,Blekinge,23124,"0,182206",Minst 1 dos
+13,2021,Blekinge,12140,"0,095658",Färdigvaccinerade
+13,2021,Skåne,162451,"0,149090",Minst 1 dos
+13,2021,Skåne,64610,"0,059296",Färdigvaccinerade
+13,2021,Halland,47075,"0,178506",Minst 1 dos
+13,2021,Halland,23760,"0,090097",Färdigvaccinerade
+13,2021,Västra Götaland,194077,"0,141547",Minst 1 dos
+13,2021,Västra Götaland,75983,"0,055417",Färdigvaccinerade
+13,2021,Värmland,51193,"0,224774",Minst 1 dos
+13,2021,Värmland,21236,"0,093241",Färdigvaccinerade
+13,2021,Örebro,46496,"0,192471",Minst 1 dos
+13,2021,Örebro,19985,"0,082728",Färdigvaccinerade
+13,2021,Västmanland,41873,"0,191389",Minst 1 dos
+13,2021,Västmanland,19541,"0,089316",Färdigvaccinerade
+13,2021,Dalarna,43129,"0,188170",Minst 1 dos
+13,2021,Dalarna,16044,"0,069999",Färdigvaccinerade
+13,2021,Gävleborg,48192,"0,209569",Minst 1 dos
+13,2021,Gävleborg,21787,"0,094743",Färdigvaccinerade
+13,2021,Västernorrland,33036,"0,168970",Minst 1 dos
+13,2021,Västernorrland,17358,"0,088781",Färdigvaccinerade
+13,2021,Jämtland,21111,"0,201886",Minst 1 dos
+13,2021,Jämtland,8037,"0,076858",Färdigvaccinerade
+13,2021,Västerbotten,38387,"0,175700",Minst 1 dos
+13,2021,Västerbotten,13828,"0,063292",Färdigvaccinerade
+13,2021,Norrbotten,36284,"0,178444",Minst 1 dos
+13,2021,Norrbotten,16426,"0,080783",Färdigvaccinerade
+14,2021,| Sverige |,1533733,"0,187271",Minst 1 dos
+14,2021,| Sverige |,634794,"0,077509",Färdigvaccinerade
+14,2021,Stockholm,251568,"0,134595",Minst 1 dos
+14,2021,Stockholm,106084,"0,056757",Färdigvaccinerade
+14,2021,Uppsala,52455,"0,171242",Minst 1 dos
+14,2021,Uppsala,21495,"0,070171",Färdigvaccinerade
+14,2021,Södermanland,58088,"0,248145",Minst 1 dos
+14,2021,Södermanland,24651,"0,105306",Färdigvaccinerade
+14,2021,Östergötland,84317,"0,227760",Minst 1 dos
+14,2021,Östergötland,29732,"0,080313",Färdigvaccinerade
+14,2021,Jönköping,67417,"0,236392",Minst 1 dos
+14,2021,Jönköping,23802,"0,083460",Färdigvaccinerade
+14,2021,Kronoberg,32273,"0,204059",Minst 1 dos
+14,2021,Kronoberg,12803,"0,080952",Färdigvaccinerade
+14,2021,Kalmar,49525,"0,251039",Minst 1 dos
+14,2021,Kalmar,21428,"0,108617",Färdigvaccinerade
+14,2021,Gotland,13103,"0,267179",Minst 1 dos
+14,2021,Gotland,5317,"0,108417",Färdigvaccinerade
+14,2021,Blekinge,27888,"0,219745",Minst 1 dos
+14,2021,Blekinge,13106,"0,103269",Färdigvaccinerade
+14,2021,Skåne,189145,"0,173588",Minst 1 dos
+14,2021,Skåne,79258,"0,072739",Färdigvaccinerade
+14,2021,Halland,57106,"0,216544",Minst 1 dos
+14,2021,Halland,27470,"0,104165",Färdigvaccinerade
+14,2021,Västra Götaland,223368,"0,162910",Minst 1 dos
+14,2021,Västra Götaland,94822,"0,069157",Färdigvaccinerade
+14,2021,Värmland,62767,"0,275592",Minst 1 dos
+14,2021,Värmland,24643,"0,108201",Färdigvaccinerade
+14,2021,Örebro,54574,"0,225910",Minst 1 dos
+14,2021,Örebro,22379,"0,092638",Färdigvaccinerade
+14,2021,Västmanland,45266,"0,206897",Minst 1 dos
+14,2021,Västmanland,23017,"0,105204",Färdigvaccinerade
+14,2021,Dalarna,55773,"0,243336",Minst 1 dos
+14,2021,Dalarna,16257,"0,070929",Färdigvaccinerade
+14,2021,Gävleborg,56037,"0,243684",Minst 1 dos
+14,2021,Gävleborg,25706,"0,111786",Färdigvaccinerade
+14,2021,Västernorrland,40978,"0,209591",Minst 1 dos
+14,2021,Västernorrland,19963,"0,102105",Färdigvaccinerade
+14,2021,Jämtland,24393,"0,233272",Minst 1 dos
+14,2021,Jämtland,8231,"0,078714",Färdigvaccinerade
+14,2021,Västerbotten,43746,"0,200229",Minst 1 dos
+14,2021,Västerbotten,17703,"0,081028",Färdigvaccinerade
+14,2021,Norrbotten,43946,"0,216125",Minst 1 dos
+14,2021,Norrbotten,16927,"0,083246",Färdigvaccinerade
+15,2021,| Sverige |,1940387,"0,236925",Minst 1 dos
+15,2021,| Sverige |,697388,"0,085152",Färdigvaccinerade
+15,2021,Stockholm,327067,"0,174988",Minst 1 dos
+15,2021,Stockholm,114938,"0,061494",Färdigvaccinerade
+15,2021,Uppsala,64065,"0,209143",Minst 1 dos
+15,2021,Uppsala,24867,"0,081180",Färdigvaccinerade
+15,2021,Södermanland,68744,"0,293666",Minst 1 dos
+15,2021,Södermanland,26238,"0,112086",Färdigvaccinerade
+15,2021,Östergötland,106167,"0,286782",Minst 1 dos
+15,2021,Östergötland,32332,"0,087336",Färdigvaccinerade
+15,2021,Jönköping,83678,"0,293409",Minst 1 dos
+15,2021,Jönköping,25022,"0,087737",Färdigvaccinerade
+15,2021,Kronoberg,43534,"0,275262",Minst 1 dos
+15,2021,Kronoberg,13537,"0,085593",Färdigvaccinerade
+15,2021,Kalmar,62846,"0,318562",Minst 1 dos
+15,2021,Kalmar,24376,"0,123560",Färdigvaccinerade
+15,2021,Gotland,15278,"0,311529",Minst 1 dos
+15,2021,Gotland,5385,"0,109804",Färdigvaccinerade
+15,2021,Blekinge,35019,"0,275934",Minst 1 dos
+15,2021,Blekinge,13314,"0,104908",Färdigvaccinerade
+15,2021,Skåne,236075,"0,216658",Minst 1 dos
+15,2021,Skåne,95295,"0,087457",Färdigvaccinerade
+15,2021,Halland,71671,"0,271773",Minst 1 dos
+15,2021,Halland,27884,"0,105735",Färdigvaccinerade
+15,2021,Västra Götaland,282463,"0,206010",Minst 1 dos
+15,2021,Västra Götaland,107129,"0,078133",Färdigvaccinerade
+15,2021,Värmland,77482,"0,340202",Minst 1 dos
+15,2021,Värmland,25181,"0,110563",Färdigvaccinerade
+15,2021,Örebro,64494,"0,266974",Minst 1 dos
+15,2021,Örebro,24405,"0,101025",Färdigvaccinerade
+15,2021,Västmanland,60324,"0,275723",Minst 1 dos
+15,2021,Västmanland,23408,"0,106991",Färdigvaccinerade
+15,2021,Dalarna,71776,"0,313156",Minst 1 dos
+15,2021,Dalarna,16556,"0,072233",Färdigvaccinerade
+15,2021,Gävleborg,68577,"0,298215",Minst 1 dos
+15,2021,Gävleborg,29193,"0,126949",Färdigvaccinerade
+15,2021,Västernorrland,56574,"0,289360",Minst 1 dos
+15,2021,Västernorrland,20904,"0,106918",Färdigvaccinerade
+15,2021,Jämtland,31878,"0,304851",Minst 1 dos
+15,2021,Jämtland,8370,"0,080043",Färdigvaccinerade
+15,2021,Västerbotten,55557,"0,254289",Minst 1 dos
+15,2021,Västerbotten,21223,"0,097139",Färdigvaccinerade
+15,2021,Norrbotten,57118,"0,280905",Minst 1 dos
+15,2021,Norrbotten,17831,"0,087692",Färdigvaccinerade
+16,2021,| Sverige |,2315565,"0,282734",Minst 1 dos
+16,2021,| Sverige |,733786,"0,089597",Färdigvaccinerade
+16,2021,Stockholm,395955,"0,211845",Minst 1 dos
+16,2021,Stockholm,119977,"0,064190",Färdigvaccinerade
+16,2021,Uppsala,75117,"0,245223",Minst 1 dos
+16,2021,Uppsala,28901,"0,094349",Färdigvaccinerade
+16,2021,Södermanland,78615,"0,335834",Minst 1 dos
+16,2021,Södermanland,27186,"0,116135",Färdigvaccinerade
+16,2021,Östergötland,124186,"0,335456",Minst 1 dos
+16,2021,Östergötland,35970,"0,097163",Färdigvaccinerade
+16,2021,Jönköping,94532,"0,331468",Minst 1 dos
+16,2021,Jönköping,27631,"0,096886",Färdigvaccinerade
+16,2021,Kronoberg,51192,"0,323682",Minst 1 dos
+16,2021,Kronoberg,13887,"0,087806",Färdigvaccinerade
+16,2021,Kalmar,76549,"0,388022",Minst 1 dos
+16,2021,Kalmar,24905,"0,126242",Färdigvaccinerade
+16,2021,Gotland,16514,"0,336732",Minst 1 dos
+16,2021,Gotland,6735,"0,137331",Färdigvaccinerade
+16,2021,Blekinge,41854,"0,329790",Minst 1 dos
+16,2021,Blekinge,13607,"0,107217",Färdigvaccinerade
+16,2021,Skåne,290761,"0,266846",Minst 1 dos
+16,2021,Skåne,97702,"0,089666",Färdigvaccinerade
+16,2021,Halland,84564,"0,320663",Minst 1 dos
+16,2021,Halland,28110,"0,106592",Färdigvaccinerade
+16,2021,Västra Götaland,339793,"0,247822",Minst 1 dos
+16,2021,Västra Götaland,109836,"0,080107",Färdigvaccinerade
+16,2021,Värmland,89317,"0,392166",Minst 1 dos
+16,2021,Värmland,25338,"0,111252",Färdigvaccinerade
+16,2021,Örebro,77001,"0,318747",Minst 1 dos
+16,2021,Örebro,27532,"0,113969",Färdigvaccinerade
+16,2021,Västmanland,73081,"0,334031",Minst 1 dos
+16,2021,Västmanland,23790,"0,108737",Färdigvaccinerade
+16,2021,Dalarna,84332,"0,367937",Minst 1 dos
+16,2021,Dalarna,18992,"0,082861",Färdigvaccinerade
+16,2021,Gävleborg,79847,"0,347224",Minst 1 dos
+16,2021,Gävleborg,32122,"0,139686",Färdigvaccinerade
+16,2021,Västernorrland,68671,"0,351233",Minst 1 dos
+16,2021,Västernorrland,21146,"0,108156",Färdigvaccinerade
+16,2021,Jämtland,36019,"0,344452",Minst 1 dos
+16,2021,Jämtland,10237,"0,097897",Färdigvaccinerade
+16,2021,Västerbotten,67148,"0,307342",Minst 1 dos
+16,2021,Västerbotten,22225,"0,101726",Färdigvaccinerade
+16,2021,Norrbotten,70517,"0,346800",Minst 1 dos
+16,2021,Norrbotten,17957,"0,088312",Färdigvaccinerade
