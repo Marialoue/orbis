@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import DeckGL from "@deck.gl/react";
 import { StaticMap } from "react-map-gl";
 import { countyLayer, regionLayer, polygon } from "./MapLayer";
@@ -20,27 +20,10 @@ const Map = () => {
 
   const [showCounty, setShowCounty] = useState(true);
 
-  useEffect(() => {
-    // setShowCounty(!showCounty);
-  }, []);
-
   const handleClick = () => {
     setShowCounty(!showCounty);
   };
 
-  function getTooltip({ object }) {
-    return object && showCounty
-      ? {
-          html: `\
-    <div><b>County: </b>${object.properties.name}<br/>
-    <b>Population: </b>${object.properties.population}</div>
-    `,
-        }
-      : null;
-  }
-
-  const layers = [showCounty ? countyLayer() : regionLayer()];
-  console.log(`show county: ${showCounty}`);
 
   return (
     <DeckGL
@@ -49,10 +32,11 @@ const Map = () => {
         setViewState({ ...viewState });
       }}
       controller={true}
-      layers={layers}
+      layers={countyLayer()}
       getTooltip={({ object }) =>
         object && showCounty
-          ? `County: ${object.properties.name}\n Population: ${object.properties.population}\n Fully vaccinated: ${object.properties.fullyVaccinated[0]}\n One dose: ${object.properties.oneDose[0]}`
+          ? `County: ${object.properties.name}\n Population: ${object.properties.population}\n 
+          Fully vaccinated: ${object.properties.fullyVaccinated[0]}\n One dose: ${object.properties.oneDose[0]}`
           : null
       }
     >
@@ -63,11 +47,9 @@ const Map = () => {
         mapboxApiAccessToken={mapToken}
       />
 
-      <div className="controller">
-        <button onClick={handleClick}>
-          {showCounty ? "Visa antal vaccinerade" : "Visa befolkning" }
-        </button>
-      </div>
+      {/* <div className="legend">
+        <p></p>
+      </div> */}
     </DeckGL>
   );
 };
