@@ -24,6 +24,10 @@ const Map = () => {
     // setShowCounty(!showCounty);
   }, []);
 
+  const handleClick = () => {
+    setShowCounty(!showCounty);
+  };
+
   function getTooltip({ object }) {
     return object && showCounty
       ? {
@@ -58,6 +62,10 @@ const Map = () => {
         // reuseMaps
         mapboxApiAccessToken={mapToken}
       />
+
+      <div className="controller">
+        <button onClick={handleClick}>Change Layer</button>
+      </div>
     </DeckGL>
   );
 };
