@@ -52,7 +52,7 @@ const Map = () => {
       layers={layers}
       getTooltip={({ object }) =>
         object && showCounty
-          ? `County: ${object.properties.name}\n Population: ${object.properties.population}`
+          ? `County: ${object.properties.name}\n Population: ${object.properties.population}\n Fully vaccinated: ${object.properties.fullyVaccinated[0]}\n One dose: ${object.properties.oneDose[0]}`
           : null
       }
     >
@@ -64,7 +64,9 @@ const Map = () => {
       />
 
       <div className="controller">
-        <button onClick={handleClick}>Change Layer</button>
+        <button onClick={handleClick}>
+          {showCounty ? "Visa antal vaccinerade" : "Visa befolkning" }
+        </button>
       </div>
     </DeckGL>
   );
