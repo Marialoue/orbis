@@ -10,10 +10,6 @@ const useStyles = makeStyles({
   },
 });
 
-function valuetext(value) {
-  return `${value}°C`;
-}
-
 export default function DiscreteSlider({ currentWeek, setCurrentWeek }) {
   const classes = useStyles();
 
@@ -21,12 +17,15 @@ export default function DiscreteSlider({ currentWeek, setCurrentWeek }) {
     <div className={classes.root}>
       <Slider
         defaultValue={2}
-        getAriaValueText={valuetext}
+        // Some minor label formatting
+        valueLabelFormat={(value) => <span>V. {value - 2}</span>}
         aria-labelledby="discrete-slider"
         valueLabelDisplay="auto"
         step={1}
         marks
-        min={0}
+        // Lets not care about week 52 / 53 of 2020 -
+        // Setting min=2 should start us on week 1 of 2021
+        min={2}
         max={16}
         onChange={(e, v) => setCurrentWeek(v)}
       />
