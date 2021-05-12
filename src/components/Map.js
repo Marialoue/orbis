@@ -1,10 +1,9 @@
-import { useEffect, useState, useRef } from "react";
+import { useEffect, useState } from "react";
 import DeckGL from "@deck.gl/react";
-import { StaticMap } from "react-map-gl";
-import { countyLayer, regionLayer, polygon, COLOR_SCALE } from "./MapLayer";
+import { StaticMap, MapContext, NavigationControl } from "react-map-gl";
+import { COLOR_SCALE } from "./MapLayer";
 import DiscreteSlider from "./Slider";
-import { PolygonLayer, GeoJsonLayer } from "@deck.gl/layers";
-import { scaleThreshold } from "d3-scale";
+import { GeoJsonLayer } from "@deck.gl/layers";
 import counties from "../data/counties.js";
 
 const Map = () => {
@@ -19,8 +18,6 @@ const Map = () => {
 
   // token for mapbox api
   const mapToken = process.env.REACT_APP_MAP_TOKEN;
-
-  const [showCounty, setShowCounty] = useState(true);
 
   // Start visualizing on "2" - that should be week 1, 2021
   const [currentWeek, setCurrentWeek] = useState(2);
@@ -64,9 +61,6 @@ when that happens, do some datamassaging and update GeoJson layer
     );
   }, [currentWeek]);
 
-  const handleClick = () => {
-    setShowCounty(!showCounty);
-  };
   return (
     <>
       <DeckGL
@@ -77,23 +71,26 @@ when that happens, do some datamassaging and update GeoJson layer
         controller={true}
         layers={[filteredCountyData]}
         getTooltip={({ object }) =>
-          object && showCounty
-            ? `County: ${object.properties.name}\n Population: ${object.properties.population}\n 
+          object &&
+          `County: ${object.properties.name}\n Population: ${object.properties.population}\n 
           Fully vaccinated: ${object.properties.fullyVaccinated[currentWeek]}\n One dose: ${object.properties.oneDose[currentWeek]}`
-            : null
         }
+        // For navigation controll to work we need a context provider from Mapbox to render nav as child
+        ContextProvider={MapContext.Provider}
       >
         <StaticMap
           mapStyle={"mapbox://styles/mapbox/light-v8"}
-          // preventStyleDiffing={true}
-          // reuseMaps
           mapboxApiAccessToken={mapToken}
         />
-
-        {/* <div className="legend">
-        <p></p>
-      </div> */}
+        
+        <NavigationControl
+          className="nav"
+          onViewStateChange={({ viewState }) => {
+            setViewState({ ...viewState });
+          }}
+        />
       </DeckGL>
+
       <DiscreteSlider
         currentWeek={currentWeek}
         setCurrentWeek={setCurrentWeek}

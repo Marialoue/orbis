@@ -19,14 +19,6 @@ body {
   text-align: left;
 }
 
-.nav {
-  position: fixed;
-  border-radius: 10px;
-  background-color: rgba(83, 128, 172, 0.211);
-  box-shadow: 0px 5px 5px 0px rgba(74, 74, 78, 0.642);
-  z-index: 201;
-}
-
 .app-header {
   position: fixed;
   top: 0;
@@ -34,6 +26,26 @@ body {
   right: 0;
   padding: 5px;
   height: 50px;
+}
+
+.nav {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  border-radius: 10px;
+  z-index: 201;
+}
+
+.slider {
+  position: fixed;
+  width: 85%;
+  height: 30px;
+  padding: 0% 1% 0% 1%;
+  border-radius: 10px;
+  z-index: 201;
+  background-color: rgba(83, 128, 172, 0.211);
+  box-shadow: 0px 5px 5px 0px rgba(74, 74, 78, 0.642);
+  margin: 3% 3% 3% 3%;
 }
 
 /* to be implemented */
