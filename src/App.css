@@ -15,14 +15,16 @@ body {
   overflow: hidden;
 }
 
-button {
-  width: max-content;
-  height: max-content;
-  margin: auto;
-}
-
 .app-container {
   text-align: left;
+}
+
+.nav {
+  position: fixed;
+  border-radius: 10px;
+  background-color: rgba(83, 128, 172, 0.211);
+  box-shadow: 0px 5px 5px 0px rgba(74, 74, 78, 0.642);
+  z-index: 201;
 }
 
 .app-header {
@@ -32,16 +34,10 @@ button {
   right: 0;
   padding: 5px;
   height: 50px;
-  z-index: 1;
-  /* background-color: rgba(14, 17, 39, 0.642);
-  box-shadow: 0px 5px 5px 0px rgba(14, 17, 39, 0.642); */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
 }
 
-.controller {
+/* to be implemented */
+.legend {
   position: fixed;
   height: 20%;
   width: 20%;
@@ -58,14 +54,5 @@ button {
 }
 
 .deck-tooltip {
-  color: rgb(227, 241, 95);
-  background-color: rgba(56, 70, 86, 0.745);
-  z-index: 1;
-  position: absolute;
-  pointer-events: none;
-  padding: 10px;
-  top: 0px;
-  left: 0px;
-  display: block;
-  transform: translate(396px, 261px);
+  border-radius: 10px;
 }
