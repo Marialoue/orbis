@@ -42,9 +42,11 @@ csv()
 
           // since AntalVaccinerade has two values in in csv file, make sure we save the correct value to the correct array
           if (item.Vaccinationsstatus === "Färdigvaccinerade") {
-            fullyVaccinated.push(item.AntalVaccinerade);
+
+            // don't forget to parse result from string to int for easy access in map layer
+            fullyVaccinated.push(parseInt(item.AntalVaccinerade));
           } else {
-            oneDose.push(item.AntalVaccinerade);
+            oneDose.push(parseInt(item.AntalVaccinerade));
           }
           // construct key and data to save in new file
           result.region = currentRegion;
