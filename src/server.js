@@ -1,0 +1,64 @@
+// path to csv, data is from FOHM
+const csvFile = "./data/Folkhalsomyndigheten_Covid19_Vaccinerade.csv";
+
+// import node modules
+const fs = require("fs");
+const csv = require("csvtojson");
+
+// variables to filter out regions
+const regions = [];
+const allRegions = [];
+
+// to filter out the duplicate values with the same region in csv file we use a helper function to first set each unique value
+const uniqueValue = (value, index, self) => {
+  return self.indexOf(value) === index;
+};
+
+csv()
+  // read fom file
+  .fromFile(csvFile)
+
+  // save result in var json
+  .then((json) => {
+    // for each item in json, add data from Region tab (in csv file) to array regions
+    json.forEach((item) => {
+      regions.push(item.Region);
+    });
+    // in array regions filter out the unique values and save to unique
+    var unique = regions.filter(uniqueValue);
+    // to save result in entire object
+    unique.forEach((region) => {
+      var result = {};
+      var oneDose = [];
+      var fullyVaccinated = [];
+      var week = [];
+
+      json.map((item) => {
+        // if Region from json is the same as unique region from regions array
+        if (item.Region === region) {
+          // save as the current region
+          var currentRegion = region;
+          week.push(item.Vecka);
+
+          // since AntalVaccinerade has two values in in csv file, make sure we save the correct value to the correct array
+          if (item.Vaccinationsstatus === "Färdigvaccinerade") {
+            fullyVaccinated.push(item.AntalVaccinerade);
+          } else {
+            oneDose.push(item.AntalVaccinerade);
+          }
+          // construct key and data to save in new file
+          result.region = currentRegion;
+          result.fulltVaccinerade = fullyVaccinated;
+          result.enDos = oneDose;
+          result.vecka = week;
+        }
+      });
+      console.log(result);
+      // save the result to an array
+      allRegions.push(result);
+    });
+
+    console.log("writing to file");
+    let data = JSON.stringify(allRegions);
+    fs.writeFileSync("vaccinated.json", data, "UTF-8", { flags: "a+" });
+  });
