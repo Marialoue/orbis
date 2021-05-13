@@ -55,12 +55,12 @@ csv()
           result.vecka = week;
         }
       });
-      console.log(result);
+      // console.log(result);
       // save the result to an array
       allRegions.push(result);
     });
 
-    console.log("writing to file");
+    console.log("Map done. Writing to file.");
     let data = JSON.stringify(allRegions);
-    fs.writeFileSync("vaccinated.json", data, "UTF-8", { flags: "a+" });
+    fs.writeFileSync(__dirname + "/data/vaccinated.json", data, "UTF-8", { flags: "a+" });
   });

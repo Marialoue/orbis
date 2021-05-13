@@ -18,4 +18,4 @@ countiesJson.features.map((countyItem) => {
 
 console.log("Writing to file.");
 let data = JSON.stringify(countiesJson);
-fs.writeFileSync("mergedData.json", data, "UTF-8", { flags: "a+" });
+fs.writeFileSync(__dirname + "/data/mergedData.json", data, "UTF-8", { flags: "a+" });
