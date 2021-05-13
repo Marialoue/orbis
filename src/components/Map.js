@@ -4,15 +4,15 @@ import { StaticMap, MapContext, NavigationControl } from "react-map-gl";
 import { COLOR_SCALE } from "./MapLayer";
 import DiscreteSlider from "./Slider";
 import { GeoJsonLayer } from "@deck.gl/layers";
-import counties from "../data/counties.js";
+import counties from "../data/mergedData.json";
 
 const Map = () => {
   // initial viewstate
   const [viewState, setViewState] = useState({
-    latitude: 62.483208,
-    longitude: 13.927503,
-    zoom: 4,
-    pitch: 30,
+    latitude: 63.483208,
+    longitude: 14.927503,
+    zoom: 3.8,
+    pitch: 35,
     bearing: 0,
   });
 
@@ -53,7 +53,7 @@ when that happens, do some datamassaging and update GeoJson layer
         // Basically, when a value within the array is changes (one or fully)
         // that will trigger an update of the layer. Which is what we want :)
         updateTriggers: {
-          getFillColor: (d) => [d.properties.one, d.properties.fully],
+          getFillColor: (d) => [d.properties.fully],
         },
         getLineColor: [80, 80, 80],
         getLineWidth: 1,
