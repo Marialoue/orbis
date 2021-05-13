@@ -38,12 +38,12 @@ body {
 
 .slider {
   position: fixed;
-  width: 85%;
+  width: 90vw;
   height: 30px;
-  padding: 0% 1% 0% 1%;
+  padding: 0% 3% 0% 3%;
   border-radius: 10px;
   z-index: 201;
-  background-color: rgba(83, 128, 172, 0.211);
+  background-color: rgba(145, 170, 194, 0.21);
   box-shadow: 0px 5px 5px 0px rgba(74, 74, 78, 0.642);
   margin: 4% 3% 3% 3%;
 }

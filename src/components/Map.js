@@ -61,6 +61,8 @@ when that happens, do some datamassaging and update GeoJson layer
     );
   }, [currentWeek]);
 
+  // implement FlyTo when onClick region?
+
   return (
     <>
       <DeckGL
