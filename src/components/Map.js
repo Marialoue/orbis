@@ -7,7 +7,7 @@ import { GeoJsonLayer } from "@deck.gl/layers";
 import counties from "../data/mergedData.json";
 
 const Map = () => {
-  // initial viewstate
+  // Initial viewstate
   const [viewState, setViewState] = useState({
     latitude: 63.483208,
     longitude: 14.927503,
@@ -16,7 +16,7 @@ const Map = () => {
     bearing: 0,
   });
 
-  // token for mapbox api
+  // Token for mapbox api
   const mapToken = process.env.REACT_APP_MAP_TOKEN;
 
   // Start visualizing on "2" - that should be week 1, 2021
@@ -24,10 +24,8 @@ const Map = () => {
 
   const [filteredCountyData, setFilteredCountyData] = useState();
 
-  /*
-Effect that listens in on when currentWeek is changed -
-when that happens, do some datamassaging and update GeoJson layer
-*/
+/* Effect that listens in on when currentWeek is changed -
+when that happens, do some datamassaging and update GeoJson layer */
   useEffect(() => {
     let data = counties;
     if (data.features[0] === undefined) {
@@ -49,9 +47,6 @@ when that happens, do some datamassaging and update GeoJson layer
         lineWidthMinPixels: 1,
         getPolygon: (d) => d.data,
         getFillColor: (d) => COLOR_SCALE(d.properties.fully),
-        // This is the magic right here! Magic it update. Great stuff.
-        // Basically, when a value within the array is changes (one or fully)
-        // that will trigger an update of the layer. Which is what we want :)
         updateTriggers: {
           getFillColor: (d) => [d.properties.fully],
         },
@@ -61,7 +56,7 @@ when that happens, do some datamassaging and update GeoJson layer
     );
   }, [currentWeek]);
 
-  // implement FlyTo when onClick region?
+  // Implement FlyTo when onClick region?
 
   return (
     <>
@@ -84,7 +79,7 @@ when that happens, do some datamassaging and update GeoJson layer
           mapStyle={"mapbox://styles/mapbox/light-v8"}
           mapboxApiAccessToken={mapToken}
         />
-        
+
         <NavigationControl
           className="nav"
           onViewStateChange={({ viewState }) => {

@@ -17,7 +17,7 @@ export default function DiscreteSlider({ currentWeek, setCurrentWeek }) {
         // Lets not care about week 52 / 53 of 2020 -
         // Setting min=2 should start us on week 1 of 2021
         min={2}
-        max={18}
+        max={19}
         onChange={(e, v) => setCurrentWeek(v)}
       />
       <span style={{ fontSize: "30px", marginTop: "5px" }}>
