@@ -9,7 +9,7 @@ import counties from "../data/mergedData.json";
 const Map = () => {
   // Initial viewstate
   const [viewState, setViewState] = useState({
-    latitude: 63.483208,
+    latitude: 61.483208,
     longitude: 14.927503,
     zoom: 3.8,
     pitch: 35,
@@ -19,13 +19,13 @@ const Map = () => {
   // Token for mapbox api
   const mapToken = process.env.REACT_APP_MAP_TOKEN;
 
-  // Start visualizing on "2" - that should be week 1, 2021
+  // Start visualizing on "2" - i.e. week 1, 2021
   const [currentWeek, setCurrentWeek] = useState(2);
-
   const [filteredCountyData, setFilteredCountyData] = useState();
 
 /* Effect that listens in on when currentWeek is changed -
 when that happens, do some datamassaging and update GeoJson layer */
+
   useEffect(() => {
     let data = counties;
     if (data.features[0] === undefined) {
@@ -70,13 +70,13 @@ when that happens, do some datamassaging and update GeoJson layer */
         getTooltip={({ object }) =>
           object &&
           `County: ${object.properties.name}\n Population: ${object.properties.population}\n 
-          Fully vaccinated: ${object.properties.fullyVaccinated[currentWeek]}\n One dose: ${object.properties.oneDose[currentWeek]}`
+          Fully vaccinated: ${object.properties.fully}\n One dose: ${object.properties.one}`
         }
         // For navigation controll to work we need a context provider from Mapbox to render nav as child
         ContextProvider={MapContext.Provider}
       >
         <StaticMap
-          mapStyle={"mapbox://styles/mapbox/light-v8"}
+          mapStyle={"mapbox://styles/mapbox/light-v10"}
           mapboxApiAccessToken={mapToken}
         />
 
@@ -96,4 +96,4 @@ when that happens, do some datamassaging and update GeoJson layer */
   );
 };
 
-export default Map;
+export default Map; 

@@ -3,13 +3,14 @@ import { makeStyles } from "@material-ui/core/styles";
 import Slider from "@material-ui/core/Slider";
 
 export default function DiscreteSlider({ currentWeek, setCurrentWeek }) {
-
   return (
     <div className="slider">
+      <b>Vecka: {currentWeek - 1}, 2021</b>
+
       <Slider
         defaultValue={2}
         // Some minor label formatting
-        valueLabelFormat={(value) => <span>V. {value - 1}</span>}
+        valueLabelFormat={(value) => <span>v. {value - 1}</span>}
         aria-labelledby="discrete-slider"
         valueLabelDisplay="auto"
         step={1}
@@ -20,9 +21,6 @@ export default function DiscreteSlider({ currentWeek, setCurrentWeek }) {
         max={19}
         onChange={(e, v) => setCurrentWeek(v)}
       />
-      <span style={{ fontSize: "30px", marginTop: "5px" }}>
-        <b>Vecka: {currentWeek - 1}, 2021</b>
-      </span>
     </div>
   );
 }
