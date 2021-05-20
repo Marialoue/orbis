@@ -16,36 +16,61 @@ body {
 }
 
 .app-container {
-  text-align: left;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  justify-content: space-between;
 }
 
 .app-header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  padding: 5px;
+  position: relative;
+  padding: 2% 2% 2% 2%;
   height: 50px;
+  width: 90%;
+  top: 20px;
+  z-index: 201;
+  margin-right: 2%;
+  margin-left: 2%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(174, 186, 197, 0.129);
+  box-shadow: -5px -5px 5px rgba(113, 113, 113, 0.15),
+    5px 5px 5px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
 }
 
+.header-menu {
+  position: relative;
+  z-index: inherit;
+  cursor: pointer;
+}
+
+/* navigation controls */
 .nav {
-  position: fixed;
-  top: 10px;
-  right: 10px;
-  border-radius: 10px;
+  bottom: 5%;
+  right: 2%;
   z-index: 201;
 }
 
 .slider {
-  position: fixed;
+  position: relative;
   width: 90vw;
-  height: 30px;
-  padding: 0% 3% 0% 3%;
+  margin: auto auto 1% auto;
   border-radius: 10px;
+  padding: 2% 2% 2% 2%;
   z-index: 201;
+  /* -5px -5px 11px rgba(113, 113, 113, 0.15), 5px 5px 11px rgba(0, 0, 0, 0.15) */
+
+}
+
+.MuiSlider-root {
+  border-radius: 10px;
   background-color: rgba(145, 170, 194, 0.21);
   box-shadow: 0px 5px 5px 0px rgba(74, 74, 78, 0.642);
-  margin: 4% 3% 3% 3%;
 }
 
 /* to be implemented */
