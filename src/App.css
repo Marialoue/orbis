@@ -1,8 +1,5 @@
 * {
   box-sizing: border-box;
-  -webkit-user-select: none; /* Safari */
-  -ms-user-select: none; /* IE 10 and IE 11 */
-  user-select: none; /* Standard syntax */
 }
 
 body {
@@ -46,7 +43,6 @@ body {
 .header-menu {
   position: relative;
   z-index: inherit;
-  cursor: pointer;
 }
 
 /* navigation controls */
@@ -58,8 +54,8 @@ body {
 
 .slider {
   position: relative;
-  width: 90vw;
-  margin: auto auto 1% auto;
+  width: 70vw;
+  margin: auto auto 1.5% auto;
   border-radius: 10px;
   padding: 2% 2% 2% 2%;
   z-index: 201;
@@ -69,8 +65,10 @@ body {
 
 .MuiSlider-root {
   border-radius: 10px;
-  background-color: rgba(145, 170, 194, 0.21);
-  box-shadow: 0px 5px 5px 0px rgba(74, 74, 78, 0.642);
+  background-color: rgba(220, 227, 229, 0.389);
+  box-shadow: -5px -5px 5px rgba(113, 113, 113, 0.15),
+  5px 5px 5px rgba(0, 0, 0, 0.15);
+  /* box-shadow: 0px 5px 5px 0px rgba(74, 74, 78, 0.642); */
 }
 
 /* to be implemented */
