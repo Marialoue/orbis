@@ -23,7 +23,7 @@ const Map = () => {
   const [currentWeek, setCurrentWeek] = useState(2);
   const [filteredCountyData, setFilteredCountyData] = useState();
 
-/* Effect that listens in on when currentWeek is changed -
+  /* Effect that listens in on when currentWeek is changed -
 when that happens, do some datamassaging and update GeoJson layer */
 
   useEffect(() => {
@@ -69,13 +69,26 @@ when that happens, do some datamassaging and update GeoJson layer */
         layers={[filteredCountyData]}
         getTooltip={({ object }) =>
           object &&
-          `County: ${object.properties.name}\n Population: ${object.properties.population}\n 
-          Fully vaccinated: ${object.properties.fully}\n One dose: ${object.properties.one}`
+          `${object.properties.name}\n Population: ${
+            object.properties.population
+          }\n 
+          Fully vaccinated: 
+          ${object.properties.fully} = ${(
+            (object.properties.fully / object.properties.population) *
+            100
+          ).toFixed(1)}%
+
+          One dose: 
+          ${object.properties.one} = ${(
+            (object.properties.one / object.properties.population) *
+            100
+          ).toFixed(1)}%`
         }
         // For navigation controll to work we need a context provider from Mapbox to render nav as child
         ContextProvider={MapContext.Provider}
       >
         <StaticMap
+          reuseMaps
           mapStyle={"mapbox://styles/mapbox/light-v10"}
           mapboxApiAccessToken={mapToken}
         />
@@ -96,4 +109,4 @@ when that happens, do some datamassaging and update GeoJson layer */
   );
 };
 
-export default Map; 
+export default Map;
