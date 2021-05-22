@@ -58,7 +58,12 @@ export const colors = {
 
   export const COLOR_SCALE = scaleThreshold()
   .domain([
-    0, 1000, 2500, 5000, 10000, 20000, 30000, 40000, 50000, 60000, 70000, 80000, 90000, 100000,
-    110000, 120000, 130000,
+    0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 18, 20
+    // scaleLinear()
+    // .domain([d3.min.fully, d3.max.fully])
+    // color = d3.scaleSequential()
+    // .domain(d3.extent(Array.from(data.values())))
+    // .interpolator(d3.interpolateYlGnBu)
+    // .unknown("#ccc")
   ])
-  .range(colors.redToGreen);
+  .range(colors.blueToGreen);

@@ -46,7 +46,8 @@ when that happens, do some datamassaging and update GeoJson layer */
         wireframe: true,
         lineWidthMinPixels: 1,
         getPolygon: (d) => d.data,
-        getFillColor: (d) => COLOR_SCALE(d.properties.fully),
+        getFillColor: (d) => COLOR_SCALE((d.properties.fully / d.properties.population) * 100), 
+        // scale percentage of county population 
         updateTriggers: {
           getFillColor: (d) => [d.properties.fully],
         },
