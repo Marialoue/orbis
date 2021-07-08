@@ -6,7 +6,7 @@ import DiscreteSlider from "./Slider";
 import { GeoJsonLayer } from "@deck.gl/layers";
 import counties from "../data/mergedData.json";
 import { MapStyleContext } from "./MapStyle";
-import { ReactComponent as Legend } from "../assets/color-legend.svg";
+import { ReactComponent as Legend } from "../assets/color-legend-100.svg";
 
 const Map = () => {
   // Initial viewstate
@@ -55,7 +55,7 @@ when that happens, do some datamassaging and update GeoJson layer */
           COLOR_SCALE((d.properties.fully / d.properties.population) * 100),
         // scale percentage of county population
         updateTriggers: {
-          getFillColor: (d) => [d.properties.fully],
+          getFillColor: (d) => [d.properties.one],
         },
         getLineColor: [80, 80, 80],
         getLineWidth: 1,
@@ -64,6 +64,8 @@ when that happens, do some datamassaging and update GeoJson layer */
   }, [currentWeek]);
 
   // Implement FlyTo when onClick region?
+  // Implement two views - one displaying percentage of one dose, the other percentage of fully vaccinated
+  // Add auto play to slider
 
   return (
     <>
@@ -99,7 +101,7 @@ when that happens, do some datamassaging and update GeoJson layer */
           mapStyle={mapStyle.tiles}
           mapboxApiAccessToken={mapToken}
         />
-        {/* Navigational control with react-map-gl v6.1.15 (latest) requires ContextProvider, 
+        {/* Navigational control with react-map-gl v6.1.15 requires ContextProvider, 
         which throws export error from earlier versions. 
         NavigationControl component will therefore be implementet later on */}
         {/* <NavigationControl
