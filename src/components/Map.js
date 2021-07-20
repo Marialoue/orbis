@@ -55,7 +55,7 @@ when that happens, do some datamassaging and update GeoJson layer */
           COLOR_SCALE((d.properties.fully / d.properties.population) * 100),
         // scale percentage of county population
         updateTriggers: {
-          getFillColor: (d) => [d.properties.one],
+          getFillColor: (d) => [d.properties.fully],
         },
         getLineColor: [80, 80, 80],
         getLineWidth: 1,
