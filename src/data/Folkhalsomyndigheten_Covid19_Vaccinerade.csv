@@ -1407,3 +1407,179 @@ Vecka,Year,Region,AntalVaccinerade,AndelVaccinerade,Vaccinationsstatus
 30, 2021, Västerbotten, 116192, "0,531820", Färdigvaccinerade
 30, 2021, Norrbotten, 169775, "0,834948", Minst 1 dos
 30, 2021, Norrbotten, 104251, "0,512703", Färdigvaccinerade
+31, 2021, | Sverige |, 6489801, "0,792416", Minst 1 dos
+31, 2021, | Sverige |, 4579335, "0,559145", Färdigvaccinerade
+31, 2021, Stockholm, 1414338, "0,756703", Minst 1 dos
+31, 2021, Stockholm, 994097, "0,531865", Färdigvaccinerade
+31, 2021, Uppsala, 259320, "0,846563", Minst 1 dos
+31, 2021, Uppsala, 187909, "0,613438", Färdigvaccinerade
+31, 2021, Södermanland, 189160, "0,808069", Minst 1 dos
+31, 2021, Södermanland, 142289, "0,607841", Färdigvaccinerade
+31, 2021, Östergötland, 307007, "0,829298", Minst 1 dos
+31, 2021, Östergötland, 213999, "0,578062", Färdigvaccinerade
+31, 2021, Jönköping, 224227, "0,786232", Minst 1 dos
+31, 2021, Jönköping, 153172, "0,537084", Färdigvaccinerade
+31, 2021, Kronoberg, 123473, "0,780709", Minst 1 dos
+31, 2021, Kronoberg, 84501, "0,534292", Färdigvaccinerade
+31, 2021, Kalmar, 163327, "0,827894", Minst 1 dos
+31, 2021, Kalmar, 118545, "0,600897", Färdigvaccinerade
+31, 2021, Gotland, 41682, "0,849925", Minst 1 dos
+31, 2021, Gotland, 27626, "0,563313", Färdigvaccinerade
+31, 2021, Blekinge, 104975, "0,827154", Minst 1 dos
+31, 2021, Blekinge, 78343, "0,617307", Färdigvaccinerade
+31, 2021, Skåne, 835605, "0,766877", Minst 1 dos
+31, 2021, Skåne, 604405, "0,554693", Färdigvaccinerade
+31, 2021, Halland, 218753, "0,829502", Minst 1 dos
+31, 2021, Halland, 155526, "0,589748", Färdigvaccinerade
+31, 2021, Västra Götaland, 1053920, "0,768659", Minst 1 dos
+31, 2021, Västra Götaland, 694104, "0,506233", Färdigvaccinerade
+31, 2021, Värmland, 197695, "0,868024", Minst 1 dos
+31, 2021, Värmland, 146810, "0,644602", Färdigvaccinerade
+31, 2021, Örebro, 196659, "0,814074", Minst 1 dos
+31, 2021, Örebro, 157234, "0,650873", Färdigvaccinerade
+31, 2021, Västmanland, 175298, "0,801234", Minst 1 dos
+31, 2021, Västmanland, 127030, "0,580616", Färdigvaccinerade
+31, 2021, Dalarna, 190462, "0,830979", Minst 1 dos
+31, 2021, Dalarna, 138575, "0,604598", Färdigvaccinerade
+31, 2021, Gävleborg, 187920, "0,817193", Minst 1 dos
+31, 2021, Gävleborg, 147525, "0,641530", Färdigvaccinerade
+31, 2021, Västernorrland, 164803, "0,842922", Minst 1 dos
+31, 2021, Västernorrland, 111889, "0,572281", Färdigvaccinerade
+31, 2021, Jämtland, 84943, "0,812315", Minst 1 dos
+31, 2021, Jämtland, 60438, "0,577972", Färdigvaccinerade
+31, 2021, Västerbotten, 183905, "0,841748", Minst 1 dos
+31, 2021, Västerbotten, 122974, "0,562862", Färdigvaccinerade
+31, 2021, Norrbotten, 172329, "0,847509", Minst 1 dos
+31, 2021, Norrbotten, 112344, "0,552504", Färdigvaccinerade
+32, 2021, | Sverige |, 6564896, "0,801585", Minst 1 dos
+32, 2021, | Sverige |, 4912716, "0,599851", Färdigvaccinerade
+32, 2021, Stockholm, 1436007, "0,768297", Minst 1 dos
+32, 2021, Stockholm, 1073217, "0,574196", Färdigvaccinerade
+32, 2021, Uppsala, 260712, "0,851107", Minst 1 dos
+32, 2021, Uppsala, 198775, "0,648911", Färdigvaccinerade
+32, 2021, Södermanland, 191268, "0,817074", Minst 1 dos
+32, 2021, Södermanland, 154308, "0,659185", Färdigvaccinerade
+32, 2021, Östergötland, 310009, "0,837407", Minst 1 dos
+32, 2021, Östergötland, 225556, "0,609280", Färdigvaccinerade
+32, 2021, Jönköping, 226808, "0,795282", Minst 1 dos
+32, 2021, Jönköping, 171084, "0,599891", Färdigvaccinerade
+32, 2021, Kronoberg, 125002, "0,790377", Minst 1 dos
+32, 2021, Kronoberg, 89266, "0,564421", Färdigvaccinerade
+32, 2021, Kalmar, 164746, "0,835087", Minst 1 dos
+32, 2021, Kalmar, 127637, "0,646984", Färdigvaccinerade
+32, 2021, Gotland, 41975, "0,855899", Minst 1 dos
+32, 2021, Gotland, 29870, "0,609070", Färdigvaccinerade
+32, 2021, Blekinge, 105814, "0,833765", Minst 1 dos
+32, 2021, Blekinge, 83231, "0,655822", Färdigvaccinerade
+32, 2021, Skåne, 844164, "0,774732", Minst 1 dos
+32, 2021, Skåne, 656412, "0,602423", Färdigvaccinerade
+32, 2021, Halland, 220133, "0,834735", Minst 1 dos
+32, 2021, Halland, 167025, "0,633352", Färdigvaccinerade
+32, 2021, Västra Götaland, 1069512, "0,780031", Minst 1 dos
+32, 2021, Västra Götaland, 737294, "0,537733", Färdigvaccinerade
+32, 2021, Värmland, 198828, "0,872998", Minst 1 dos
+32, 2021, Värmland, 159554, "0,700557", Färdigvaccinerade
+32, 2021, Örebro, 198420, "0,821363", Minst 1 dos
+32, 2021, Örebro, 167419, "0,693034", Färdigvaccinerade
+32, 2021, Västmanland, 176765, "0,807939", Minst 1 dos
+32, 2021, Västmanland, 134373, "0,614178", Färdigvaccinerade
+32, 2021, Dalarna, 191407, "0,835102", Minst 1 dos
+32, 2021, Dalarna, 147752, "0,644637", Färdigvaccinerade
+32, 2021, Gävleborg, 189690, "0,824890", Minst 1 dos
+32, 2021, Gävleborg, 155560, "0,676471", Färdigvaccinerade
+32, 2021, Västernorrland, 166235, "0,850246", Minst 1 dos
+32, 2021, Västernorrland, 118432, "0,605747", Färdigvaccinerade
+32, 2021, Jämtland, 86323, "0,825512", Minst 1 dos
+32, 2021, Jämtland, 64559, "0,617382", Färdigvaccinerade
+32, 2021, Västerbotten, 186641, "0,854270", Minst 1 dos
+32, 2021, Västerbotten, 129974, "0,594901", Färdigvaccinerade
+32, 2021, Norrbotten, 174437, "0,857876", Minst 1 dos
+32, 2021, Norrbotten, 121418, "0,597130", Färdigvaccinerade
+33, 2021, | Sverige |, 6633103, "0,809913", Minst 1 dos
+33, 2021, | Sverige |, 5318328, "0,649377", Färdigvaccinerade
+33, 2021, Stockholm, 1454114, "0,777984", Minst 1 dos
+33, 2021, Stockholm, 1154931, "0,617914", Färdigvaccinerade
+33, 2021, Uppsala, 262507, "0,856967", Minst 1 dos
+33, 2021, Uppsala, 213484, "0,696929", Färdigvaccinerade
+33, 2021, Södermanland, 193312, "0,825806", Minst 1 dos
+33, 2021, Södermanland, 165479, "0,706906", Färdigvaccinerade
+33, 2021, Östergötland, 311865, "0,842421", Minst 1 dos
+33, 2021, Östergötland, 250742, "0,677313", Färdigvaccinerade
+33, 2021, Jönköping, 228841, "0,802410", Minst 1 dos
+33, 2021, Jönköping, 188995, "0,662694", Färdigvaccinerade
+33, 2021, Kronoberg, 126385, "0,799121", Minst 1 dos
+33, 2021, Kronoberg, 94682, "0,598666", Färdigvaccinerade
+33, 2021, Kalmar, 165620, "0,839517", Minst 1 dos
+33, 2021, Kalmar, 139736, "0,708313", Färdigvaccinerade
+33, 2021, Gotland, 42412, "0,864810", Minst 1 dos
+33, 2021, Gotland, 33089, "0,674707", Färdigvaccinerade
+33, 2021, Blekinge, 106494, "0,839123", Minst 1 dos
+33, 2021, Blekinge, 88570, "0,697891", Färdigvaccinerade
+33, 2021, Skåne, 851752, "0,781696", Minst 1 dos
+33, 2021, Skåne, 711643, "0,653111", Färdigvaccinerade
+33, 2021, Halland, 221837, "0,841197", Minst 1 dos
+33, 2021, Halland, 183362, "0,695301", Färdigvaccinerade
+33, 2021, Västra Götaland, 1085014, "0,791337", Minst 1 dos
+33, 2021, Västra Götaland, 799947, "0,583428", Färdigvaccinerade
+33, 2021, Värmland, 200399, "0,879896", Minst 1 dos
+33, 2021, Värmland, 172234, "0,756232", Färdigvaccinerade
+33, 2021, Örebro, 200404, "0,829576", Minst 1 dos
+33, 2021, Örebro, 178827, "0,740258", Färdigvaccinerade
+33, 2021, Västmanland, 178443, "0,815609", Minst 1 dos
+33, 2021, Västmanland, 143741, "0,656997", Färdigvaccinerade
+33, 2021, Dalarna, 192250, "0,838780", Minst 1 dos
+33, 2021, Dalarna, 160575, "0,700583", Färdigvaccinerade
+33, 2021, Gävleborg, 191214, "0,831517", Minst 1 dos
+33, 2021, Gävleborg, 164453, "0,715144", Färdigvaccinerade
+33, 2021, Västernorrland, 167460, "0,856512", Minst 1 dos
+33, 2021, Västernorrland, 133533, "0,682984", Färdigvaccinerade
+33, 2021, Jämtland, 87491, "0,836682", Minst 1 dos
+33, 2021, Jämtland, 69877, "0,668238", Färdigvaccinerade
+33, 2021, Västerbotten, 189370, "0,866761", Minst 1 dos
+33, 2021, Västerbotten, 138620, "0,634475", Färdigvaccinerade
+33, 2021, Norrbotten, 175919, "0,865164", Minst 1 dos
+33, 2021, Norrbotten, 131808, "0,648228", Färdigvaccinerade
+34, 2021, | Sverige |, 6697421, "0,817767", Minst 1 dos
+34, 2021, | Sverige |, 5689460, "0,694693", Färdigvaccinerade
+34, 2021, Stockholm, 1469273, "0,786095", Minst 1 dos
+34, 2021, Stockholm, 1233702, "0,660059", Färdigvaccinerade
+34, 2021, Uppsala, 264701, "0,864129", Minst 1 dos
+34, 2021, Uppsala, 227638, "0,743135", Färdigvaccinerade
+34, 2021, Södermanland, 195125, "0,833550", Minst 1 dos
+34, 2021, Södermanland, 174107, "0,743764", Färdigvaccinerade
+34, 2021, Östergötland, 314636, "0,849906", Minst 1 dos
+34, 2021, Östergötland, 270235, "0,729968", Färdigvaccinerade
+34, 2021, Jönköping, 232022, "0,813564", Minst 1 dos
+34, 2021, Jönköping, 200828, "0,704185", Färdigvaccinerade
+34, 2021, Kronoberg, 127261, "0,804660", Minst 1 dos
+34, 2021, Kronoberg, 102775, "0,649837", Färdigvaccinerade
+34, 2021, Kalmar, 166194, "0,842427", Minst 1 dos
+34, 2021, Kalmar, 147149, "0,745889", Färdigvaccinerade
+34, 2021, Gotland, 42934, "0,875454", Minst 1 dos
+34, 2021, Gotland, 36160, "0,737327", Färdigvaccinerade
+34, 2021, Blekinge, 107284, "0,845348", Minst 1 dos
+34, 2021, Blekinge, 92968, "0,732545", Färdigvaccinerade
+34, 2021, Skåne, 859897, "0,789171", Minst 1 dos
+34, 2021, Skåne, 760208, "0,697682", Färdigvaccinerade
+34, 2021, Halland, 223610, "0,847920", Minst 1 dos
+34, 2021, Halland, 198413, "0,752374", Färdigvaccinerade
+34, 2021, Västra Götaland, 1100045, "0,802300", Minst 1 dos
+34, 2021, Västra Götaland, 865873, "0,631510", Färdigvaccinerade
+34, 2021, Värmland, 201247, "0,883620", Minst 1 dos
+34, 2021, Värmland, 183927, "0,807572", Färdigvaccinerade
+34, 2021, Örebro, 201721, "0,835028", Minst 1 dos
+34, 2021, Örebro, 187452, "0,775961", Färdigvaccinerade
+34, 2021, Västmanland, 179809, "0,821853", Minst 1 dos
+34, 2021, Västmanland, 154150, "0,704573", Färdigvaccinerade
+34, 2021, Dalarna, 193528, "0,844356", Minst 1 dos
+34, 2021, Dalarna, 170012, "0,741756", Färdigvaccinerade
+34, 2021, Gävleborg, 192431, "0,836809", Minst 1 dos
+34, 2021, Gävleborg, 172564, "0,750415", Färdigvaccinerade
+34, 2021, Västernorrland, 168745, "0,863084", Minst 1 dos
+34, 2021, Västernorrland, 144933, "0,741292", Färdigvaccinerade
+34, 2021, Jämtland, 88178, "0,843252", Minst 1 dos
+34, 2021, Jämtland, 75474, "0,721763", Färdigvaccinerade
+34, 2021, Västerbotten, 191663, "0,877256", Minst 1 dos
+34, 2021, Västerbotten, 149304, "0,683376", Färdigvaccinerade
+34, 2021, Norrbotten, 177117, "0,871056", Minst 1 dos
+34, 2021, Norrbotten, 141588, "0,696325", Färdigvaccinerade
