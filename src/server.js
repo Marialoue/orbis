@@ -39,10 +39,15 @@ csv()
           // save as the current region
           var currentRegion = region;
           week.push(item.Vecka);
-
-          // since AntalVaccinerade has two values in in csv file, make sure we save the correct value to the correct array
-          if (item.Vaccinationsstatus === "Färdigvaccinerade") {
-
+          // since AntalVaccinerade has two values in csv file, make sure we save the correct value to the correct array
+          /*  from w 42, FOHM have changed the definition of "fully vaccinated" to "at least two doses", 
+              in order to include the latter definition, the values will continue to represent fully vaccinated,
+              and be pushed into the fullyVaccinated array. 
+          */
+          if (
+            item.Vaccinationsstatus === "Färdigvaccinerade" ||
+            item.Vaccinationsstatus === "Minst 2 doser"
+          ) {
             // don't forget to parse result from string to int for easy access in map layer
             fullyVaccinated.push(parseInt(item.AntalVaccinerade));
           } else {
